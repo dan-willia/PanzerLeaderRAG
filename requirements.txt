@@ -1,0 +1,5 @@
+langchain==0.3.25
+langchain_community==0.3.23
+langchain_core==0.3.58
+pandas==2.2.3
+pypdf==5.4.0

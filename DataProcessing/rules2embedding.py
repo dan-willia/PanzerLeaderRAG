@@ -11,7 +11,7 @@ Creates the vector embedding database from the JSON representation of rules.
 """
 
 global CHROMA_PATH_2
-CHROMA_PATH_2 = "./ChromaDB_2/"
+CHROMA_PATH_2 = "../ChromaDB_2/"
 
 def vectorize_rule_json(rule_json):
     """
@@ -114,7 +114,7 @@ def clear_database():
         shutil.rmtree(CHROMA_PATH_2)
 
 def main():
-    with open("./data/nodes.json", "r") as file:
+    with open("./nodes.json", "r") as file:
         data = json.load(file)
     vectorize_rule_json(data)
     

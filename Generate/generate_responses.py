@@ -12,8 +12,8 @@ Writes output to csv "
 OPENAI_API_KEY = ""
 os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
 
-TEST_QUESTIONS_PATH = "./Testing/question_answers2.csv"
-OUTPUT_PATH = "qa_ref.csv"
+TEST_QUESTIONS_PATH = "./question_answers2.csv"
+OUTPUT_PATH = "../Evaluate/qa_ref.csv"
 
 RUN_TEST = False
 OUTPUT_CSV = False

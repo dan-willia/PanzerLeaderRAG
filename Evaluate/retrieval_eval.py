@@ -9,10 +9,10 @@ import json
 For comparing retrieved node with expected node
 """
 
-data = pd.read_csv("retrieval_testing.csv")
+data = pd.read_csv("retrieval_testing_edit.csv")
 db = Chroma(persist_directory=CHROMA_PATH_2, embedding_function=get_embedding_function())
 
-with open("./nodes.json", "r") as file:
+with open("../DataProcessing/nodes.json", "r") as file:
     tree_rep = json.load(file)
     
 tree = create_rule_tree(tree_rep)

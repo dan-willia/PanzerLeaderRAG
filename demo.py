@@ -1,8 +1,8 @@
 from langchain.chat_models import init_chat_model
 from langchain_core.prompts import PromptTemplate
-from query import *
-from utils import *
-from rule_hierarchy2 import *
+from Generate.query import *
+from DataProcessing.utils import *
+from DataProcessing.rule_hierarchy2 import *
 import pandas as pd
 import os
 import json
@@ -21,7 +21,7 @@ gpt3_5turbo = init_chat_model("openai:gpt-3.5-turbo")
 
 models = [gpt4o_mini, o3_mini, o1_mini, gpt3_5turbo]
 
-with open("./nodes.json", "r") as file:
+with open("./DataProcessing/nodes.json", "r") as file:
     tree_rep = json.load(file)
 
 tree = create_rule_tree(tree_rep)

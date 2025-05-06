@@ -1,6 +1,6 @@
 from langchain_core.prompts import PromptTemplate
 from langchain.chat_models import init_chat_model
-from retrieve import *
+from Generate.retrieve import *
 import os
 
 os.environ['OPENAI_API_KEY'] = ""

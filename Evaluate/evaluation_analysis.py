@@ -5,7 +5,7 @@ For human evaluation of generated answers vs expected answers:
 only machine-evaluated answers as 'false' are printed
 """
 
-data = pd.read_csv("evaluation.csv")
+data = pd.read_csv("evaluation_edited.csv")
 
 def print_output():
     for row in range(len(data)):

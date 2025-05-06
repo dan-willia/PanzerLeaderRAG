@@ -3,7 +3,7 @@ from langchain.vectorstores.chroma import Chroma
 
 
 global CHROMA_PATH_2
-CHROMA_PATH_2 = "./ChromaDB_2/"
+CHROMA_PATH_2 = "../ChromaDB_2/"
 
 def retrieve_from_chroma(query_text, db, k_results=3):
     """
