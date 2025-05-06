@@ -1,0 +1,1089 @@
+,Question,Expected Answer,4o-mini,o3-mini,o1-mini,3.5 Turbo
+0," What is the time scale in PANZER LEADER, and what does each turn represent?", Each complete turn in PANZER LEADER represents six minutes of real time. (Reference: Section III. GENERAL OUTLINE OF PLAY),The time scale in PANZER LEADER is such that each complete turn represents six minutes of real time.,"According to the rules, each complete turn in PANZER LEADER represents six minutes of real time.","In **PANZER LEADER**, the **time scale** is set to **tactical-level combat**, specifically simulating engagements on the Western Front during World War II. 
+
+Each **complete turn** in the game **represents six minutes of real-time** combat. This allows players to maneuver their forces, engage in combat, and achieve objectives with a detailed yet manageable level of granularity. The six-minute increments help simulate the swift and dynamic nature of armored warfare, requiring strategic decision-making and quick adaptation to changing battlefield conditions.
+
+**Key Points:**
+- **Time Scale:** Tactical-level combat on the Western Front during World War II.
+- **Each Turn Represents:** Six minutes of real-time combat.
+
+This structure ensures that gameplay remains immersive and reflects the intensity and rapid developments typical of armored engagements in the specified historical context.","In Panzer Leader, the time scale is six minutes of real time for each complete turn. Each turn is divided into two identical player segments: the Allied player segment and the German player segment. Each player segment is further divided into four phases."
+1, What is the map scale in PANZER LEADER?, The scale of the mapboard is 1 hexagon = 250 meters. (Reference: Section II.B. THE MAPBOARD),The map scale in PANZER LEADER is 1 hexagon = 250 meters.,The map scale in PANZER LEADER is 1 hexagon equals 250 meters.,"In **Panzer Leader**, the map scale is **1 hexagon equals 250 meters**. This scale allows players to accurately simulate tactical-level combat by representing each hexagon on the mapboard as a 250-meter area.",The map scale in Panzer Leader is 1 hexagon = 250 meters.
+2," How many mapboard sections does PANZER LEADER include, and how are they identified?"," PANZER LEADER includes four mapboard sections, identified by letters A, B, C, and D. The letter identifier is located just above the fold line on each section. (Reference: Section II.B. THE MAPBOARD)","PANZER LEADER includes four mapboard sections. Each section is identified by a letter, such as ""A,"" ""B,"" ""C,"" and ""D."" Additionally, each section features rows of hexes that are identified by letters running down the length of the sections, with individual hexes in those rows identified by counting the number of hexes. To specify a hex, you would give the section letter first, followed by the row-letter, and then the hex number. For example, ""A-Q-10"" refers to a specific hex in section ""A.""","Panzer Leader includes four mapboard sections. Each section is identified by a letter—this letter comes first in the hex’s coordinate (for example, the “A” in “A-Q-10”). The coordinate system then follows with a row letter and a hex number to pinpoint the exact location on that section.","PANZER LEADER includes **four mapboard sections**. Each of these sections is identified by a distinct **section letter** (for example, A, B, C, and D). 
+
+To reference a specific hex on the map, you use a combination of the section letter, the row letter within that section, and the hex number. For instance:
+- **A-Q-10** refers to the hexagon in section **A**, row **Q**, number **10**.
+- **A-R-6** refers to the hexagon in section **A**, row **R**, number **6**.
+
+This system allows for precise identification of locations on the map, ensuring clarity during gameplay.","PANZER LEADER includes four mapboard sections, which are identified by letters running down the length of each section. Each section is divided into rows of hexes, with individual hexes in a row being identified by counting the number of hexes starting with and including the hex with the row-letter in it."
+3, What are the four phases in each player segment of PANZER LEADER?," The four phases in each player segment are: 1. Combat Phase, 2. Air Phase, 3. Movement Phase, and 4. Close Assault Phase. (Reference: Section IV. SEQUENCE OF TURNS)","The provided excerpts do not specify what the four phases in each player segment of PANZER LEADER are. To find this information, you would need to refer to the complete rules of the game. If you have additional information or another excerpt that outlines the phases, I would be happy to help analyze that!","The excerpts you provided explain that each turn is divided into two player segments (the Allied and the German segments) and that each of these segments is further divided into four phases. However, the excerpts do not list or name these four phases. For the specific titles and descriptions of these phases, you would need to refer to the full rules of PANZER LEADER.","Based on the provided rule excerpts for **Panzer Leader**, each player segment (both Allied and German) is divided into **four phases**. However, the specific names and detailed descriptions of these four phases are not included in the excerpts you've shared.
+
+To obtain detailed information about each phase, I recommend consulting the complete **Panzer Leader** rulebook or additional sections of the rules that outline the phase structure within each player segment. Typically, in tactical wargames like Panzer Leader, phases may include areas such as Movement, Combat, Release, and Regroup, but for precise details, referring to the official game materials is essential.
+
+If you have access to more sections of the rules or specific questions about certain phases, feel free to share them, and I can help explain those parts in detail!","The four phases in each player segment of PANZER LEADER are: 
+1. Movement Phase
+2. Combat Phase
+3. CAT Phase (Close Assault and Overrun Phase)
+4. Administrative Phase"
+4, During which phase can a player execute minefield attacks?, Players execute minefield attacks during the Combat Phase. (Reference: Section IV.A.1. COMBAT PHASE),"A player can execute minefield attacks during the combat phase. Specifically, minefield attacks take place before any normal attacks and are resolved as part of the combat portion of the turn.","Minefield attacks are executed during the Combat Phase. In this phase, minefield attacks are resolved before any normal direct or indirect combat, as specified in the rules excerpts.","In **Panzer Leader**, minefield attacks are executed during the **Combat Phase** of a player's turn. According to the rules:
+
+- **Combat Phase**: This is when the allied player executes and resolves minefield attacks, as well as direct and indirect fire combat. Specifically, minefield attacks occur **before** normal attacks within this phase.
+
+- **Order of Operations**: Minefield attacks take place **before** regular attacks, ensuring that all units on minefields are addressed first. This sequence does not prevent any **direct or indirect attacks** against those units in the same Combat Phase.
+
+Therefore, players can execute minefield attacks **only during the Combat Phase** of their turn.",The player can execute minefield attacks during the Combat Phase.
+5, Can a unit both fire and move in the same player segment?, No. Units which have fired (used their attack strength) in a combat phase of a player's segment may not move in that movement phase. (Reference: Section V.B.3. FIRED AND DISPERSED UNITS),"No, a unit cannot both fire and move in the same player segment. According to the rules, units that fire (attack) in the combat phase may not move during the movement phase of the same player segment. This means that if a unit attacks, it is unable to move afterward in that same segment.","No, a unit cannot both fire and move in the same player segment. The rules clearly state that any unit which fires (or is dispersed as a result of firing) during the combat phase may not move later in that same player segment.","No, in **Panzer Leader**, a unit **cannot both fire and move** within the same player segment. According to the game rules you've provided:
+
+- **Rule 6** states that any unit that **fires (attacks)** during the **combat phase** **may not move** during the **movement phase** of the same player segment.
+  
+- **Rule 3** reinforces this by specifying that units which have **fired** or are **dispersed** in combat are **prohibited from moving** in that movement phase.
+
+This means that once a unit has engaged in combat by attacking, it remains stationary for the remainder of that player segment. This restriction ensures tactical decisions are meaningful, as committing to an attack limits the unit's mobility for that turn.
+
+**Summary:**  
+*If a unit attacks during your combat phase, it **must stay in place** and cannot move during your movement phase within the same player segment.*","No, according to the rules of Panzer Leader, units that fire (attack) during the combat phase of a player segment may not move during the movement phase of the same player segment."
+6, What is the cost in movement points for units traveling along roads?, All units move along roads at a cost of ½ movement point per road hex. (Reference: Section V.D.1. ROAD MOVEMENT RATE),"The cost in movement points for units traveling along roads is ½ movement point per road hex. However, if a unit enters a road hex through a non-road hex side, it must pay the terrain entry cost of the other terrain in the road hex being entered.","When units travel along roads, they normally use ½ movement point for each road hex entered. (Note: If a unit enters a road hex from a non-road hex, use the entry cost for the non-road terrain found in that hex.)","In **Panzer Leader**, units traveling **along roads** have a specific movement cost that differs from moving through other types of terrain. Here's how it works:
+
+- **Movement Cost on Roads:**  
+  - **½ Movement Point (½ MP) per road hex.**
+  
+  This means that for each hex a unit enters that contains a road, only half of its available movement points are consumed.
+
+- **Entering a Road Hex from Non-Road Terrain:**  
+  - If a unit enters a road hex **from a non-road hex**, the movement cost is determined by the **other terrain type** of the road hex you're entering, **not** the road itself. After this initial entry, moving **along** the road continues to cost **½ MP per road hex**.
+
+**Example Scenario:**
+- If a unit moves from a forest hex into a road hex:
+  - **First Hex (Forest to Road):** Cost is based on the forest's movement cost.
+  - **Subsequent Road Hexes:** Each additional road hex costs **½ MP**.
+
+**Key Points to Remember:**
+- **Roads facilitate faster movement**, allowing units to traverse longer distances with fewer movement points.
+- **Entering roads from non-road terrains** may initially incur higher movement costs based on the terrain being entered.
+- **Roads do not change the defensive effects** of the terrain they pass through.
+
+By utilizing roads effectively, you can enhance the mobility of your units across the map, making strategic maneuvers more feasible.",The cost for units traveling along roads is ½ movement point per road hex.
+7, Under what condition can a vehicular unit NOT enter a road hex at the road movement rate?, A vehicular unit cannot enter a road hex at the road movement rate if the hex contains more than two other units. (Reference: Section V.D.3-4. STACKING LIMITATION),"A vehicular unit cannot enter a road hex at the road movement rate under the following conditions:
+
+1. If the hex contains blocks, fortifications, or minefield counters, vehicular units may not enter that hex at the road movement rate, regardless of the number of units in the hex.
+
+2. If a block counter is present on a road in that hex, it negates the road, and vehicular units may not cross adjacent green hex sides when moving into that block-road hex.
+
+3. If there are more than two units already in the hex, a vehicular unit may not enter that hex via road movement, as it is prohibited to do so. 
+
+In summary, a vehicular unit cannot enter a road hex at the road movement rate if the hex is occupied by more than two units, contains obstacles like blocks, fortifications, or minefields, or if a block counter negates the road.","A vehicular unit is prohibited from entering a road hex at the road movement rate if that road hex contains an enemy fortification, a block, or a minefield counter (or if a block counter is on the road in that hex, which effectively negates the road). This means that even if there are fewer than three units present, if any of those defensive elements are present, the vehicular unit cannot use the road movement rate to enter that hex.","A vehicular unit **cannot** enter a road hex at the road movement rate under the following conditions:
+
+1. **Exceeds Stacking Limitation**: If the road hex already contains **three or more units**, entry by road movement is prohibited. This means that even if the hex is designated for road movement, the presence of more than two units in the hex prevents additional vehicular units from entering at the road movement rate.
+
+2. **Presence of Obstacles**: The road hex contains **blocks, fortifications, or minefield counters**. Regardless of the number of units in the hex, these obstacles prevent any unit from entering at the road movement rate. Specifically for vehicular units:
+   - They cannot cross adjacent green hex sides into a road hex that has an **enemy fortification**, **block**, or **minefield**.
+   - A **block counter** on a road hex specifically negates the road movement rate, thereby preventing vehicular units from entering that hex via road.
+
+**Summary**: A vehicular unit cannot enter a road hex at the road movement rate if the hex has three or more units, contains blocks, fortifications, or minefield counters, or if a block counter negates the road movement in that hex.","A vehicular unit cannot enter a road hex at the road movement rate if the hex contains more than two units, or if the hex contains blocks, fortifications, or minefield counters. Additionally, if there is a block counter on the road in that hex, the vehicular unit cannot enter at the road movement rate."
+8, What happens if a non-vehicular unit fails its die roll when attempting to enter a stream hex?," If unsuccessful (die roll of 4, 5, or 6), the unit may not move during that movement phase. (Reference: Section VII.K.2. NON-VEHICULAR REQUIREMENTS)","If a non-vehicular unit fails its die roll when attempting to enter a stream hex, it may not move during that movement phase. Each unit must roll for entry into each separate stream hex, and a die roll of 1, 2, or 3 permits entry. If the roll is not successful, the unit's movement is completely halted for that turn.","According to the rules, if a non-vehicular unit fails its die roll when attempting to enter a stream hex, it may not move during that movement phase.","If a non-vehicular unit fails its die roll when attempting to enter a stream hex in **Panzer Leader**, the following occurs:
+
+- **Movement Restriction:** The unit **may not move** during that **current movement phase**. This means it cannot proceed into the stream hex or make any other movements for the remainder of that turn.
+  
+**Summary:**
+- **Successful Roll (1, 2, or 3):** The unit enters the stream hex.
+- **Failed Roll (4, 5, or 6):** The unit **cannot enter** the stream hex and **cannot move** for the rest of the movement phase.
+
+Remember that each attempt to enter a separate stream hex requires its own die roll. Failing any of these rolls will result in the unit being immobilized for that movement phase.","If a non-vehicular unit fails its die roll when attempting to enter a stream hex, it may not move during that movement phase. The unit must wait until the next movement phase to attempt to enter the stream hex again."
+9, What is the maximum number of units that can be stacked in one hex?, Both sides may stack a maximum of four units in one hex. (Reference: Section VI.A. MAXIMUM OF FOUR),"The maximum number of units that can be stacked in one hex is four units. However, if there is a fortification present, it does not count against the stacking limit for units inside the fortification. Therefore, a hex can contain up to four units inside the fortification, plus an additional three units outside the fortification, leading to a total of seven units in that hex when including both inside and outside the fortification.","Normally, a hex is limited to four units per the ""MAXIMUM OF FOUR"" rule. However, there is an exception in the case of fortifications. When a hex contains a fortification counter, the rules allow four units to be placed inside the fortification (and these do not count against the stacking limit) plus up to three additional units outside the fortification (since the fortification itself counts as one unit for stacking purposes). This means that in a hex with a fortification counter, you could have up to seven units in total (four inside and three outside).","In **Panzer Leader**, the maximum number of units that can be stacked in one hex depends on whether a fortification is present:
+
+1. **Without a Fortification:**
+   - **Maximum Units:** **Four** units can be stacked in a single hex.
+
+2. **With a Fortification:**
+   - **Inside the Fortification:** **Four** units can occupy the fortification itself.
+   - **Outside the Fortification:** An additional **three** units can be placed outside.
+   - **Total Units:** This allows for a **maximum of seven** units in one hex (four inside the fortification and three outside).
+
+**Summary:**
+- **Standard Hex:** Up to **4 units**.
+- **Hex with Fortification:** Up to **7 units** (4 inside + 3 outside).
+
+This stacking limit ensures strategic depth, allowing for both defensive structures and concentrated unit forces within the same hex.",The maximum number of units that can be stacked in one hex is four. Units may not enter or move through hexes containing the maximum allowable number of units.
+10, How are passenger and carrier units counted for stacking purposes?," When a unit is being transported by another unit, the passenger and the carrier are considered as one unit for stacking purposes. (Reference: Section VI.B. CARRIER AND PASSENGER TREATED AS ONE UNIT)","Passenger and carrier units are treated as one unit for stacking purposes in Panzer Leader. This means that when determining stacking limitations, you will count both the passenger unit and its carrier as a single unit. If a situation arises where combat results in elimination or dispersion, both units will be affected together.","Passenger and carrier units are counted as one unit for stacking purposes. That means if you have a carrier unit transporting a passenger unit, you treat them as a single unit when determining stacking limits.","In **Panzer Leader**, **passenger** and **carrier** units are **treated as a single combined unit** for stacking purposes. This means that when determining how many units can occupy a single hex (the stacking limit), the passenger and its accompanying carrier count together as **one unit** rather than as separate entities.
+
+**Key Points:**
+
+1. **Unified Counting:** 
+   - **Passenger + Carrier = 1 Unit** for stacking.
+   
+2. **Combat Implications:** 
+   - If combat leads to the elimination or dispersal of the unit, **both the passenger and carrier are affected simultaneously**.
+   
+3. **Placement Rules:** 
+   - When transporting, carrier units are positioned on top of their passenger units during movement phases, ensuring they are considered as one entity in gameplay mechanics.
+
+**Example Scenario:**
+- If a hex has a stacking limit of 3 units:
+  - You could place **three separate single units**, **two combined passenger-carrier units**, or a mix that does not exceed the stacking limit.
+  - Each passenger-carrier pair occupies the same space as one unit toward the stacking limit.
+
+This unified treatment simplifies movement and combat mechanics involving transported units, ensuring that both passenger and carrier are always managed together within the game's framework.",Passenger and carrier units are counted as one unit for stacking purposes.
+11, Do minefield counters count towards stacking limits?," No, minefield counters do not count towards stacking limits. (Reference: Section VI.C. MINEFIELD COUNTERS DO NOT COUNT)","No, minefield counters do not count towards stacking limits. As stated in the rules, minefield counters do not count for stacking purposes.","According to the rules, minefield counters do not count towards stacking limits.","No, minefield counters do not count towards stacking limits. According to the rules, minefield counters are exempt from stacking restrictions, allowing them to coexist with other units without affecting the maximum number of units allowed in a hex.","According to the rules of Panzer Leader, minefield counters do not count towards stacking limits."
+12," What is the only way infantry (""I"") units can attack armored vehicle units?"," Close assault is the only way in which ""I"" units may attack armored vehicle units. (Reference: Section VII.E.7. ONLY WAY ""I"" UNITS MAY ATTACK ARMORED UNITS)","The only way infantry (""I"") units can attack armored vehicle units is through close assault.","According to the rules, infantry (I) units may only attack armored vehicle units through a close assault.","In **Panzer Leader**, the **only way infantry (""I"") units can attack armored vehicle units** is through a **close assault**. This is explicitly stated in the game rules:
+
+> **7. Only Way “I” Units May Attack Armored Units:** Close assault is the only way in which “I” units may attack armored vehicle units.
+
+Additionally, the **Panzerblitz Assault** mechanic provides a specific scenario where German infantry can effectively engage armored units:
+
+> **D. PANZERBLITZ ASSAULT:** German infantry units on armored vehicles may “jump off” in the hex immediately in front of a unit about to be overrun by those armored vehicles. The infantry may then close assault the units which were just overrun by the vehicles during the CAT phase.
+
+**Summary:**
+- **Primary Method:** Infantry (""I"") units must use a **close assault** to attack armored vehicle units.
+- **Special Mechanic:** Through **Panzerblitz Assault**, German infantry on armored vehicles can disengage and perform a close assault when their vehicles are about to be overrun.
+
+This ensures that infantry engage armored threats in a controlled and specific manner, maintaining the strategic balance within the game.","The only way infantry (""I"") units can attack armored vehicle units is through close assault."
+13," When making a direct fire attack against units in a mixed stack, how do you determine which defense type to use?"," Determine what type of unit counter (armored or non-armored) predominates in the stack and treat the entire stack as that type of target. If the target stack is divided evenly between armored and non-armored unit counters, treat the whole stack as the type of target least favorable to the particular attacking unit(s). (Reference: Section VII.F.2.b. MIXED TARGET STACKS)","When making a direct fire attack against units in a mixed stack, you determine the defense type to use by identifying the type of unit counter (armored or non-armored) that predominates in the stack. If one type predominates, you treat the entire stack as if all the units were that type. If the stack is evenly divided between armored and non-armored units, you treat the whole stack as if it were the type of target least favorable to the attacking units. Additionally, units being transported and those inside fortifications are not considered for determining predominance. Instead, the fortification itself is counted as one armored unit.","To determine which defense type to use when attacking a mixed stack, first look at the individual unit counters in the stack (ignoring any units being transported or inside fortifications, which as stated count as a single armored unit). Identify whether there are more armored or more non-armored units present. The stack is then treated entirely as that predominant type for the purposes of the attack. If the stack is evenly divided between armored and non-armored units, treat it as the type that is least favorable to the attacking unit(s).","When conducting a **direct fire attack** against a **mixed stack** in Panzer Leader, you'll need to determine the appropriate **defense type** (armored or non-armored) to apply to the entire stack. Here's how to do it step-by-step:
+
+1. **Identify Unit Types in the Stack:**
+   - **Armored Units:** These typically include tanks and other heavily armored vehicles.
+   - **Non-Armored Units:** These include infantry, trucks, and other lighter vehicles.
+
+2. **Determine Predominant Unit Type:**
+   - **Count the Unit Counters:**
+     - **Ignore** any units that are being transported.
+     - **Ignore** units inside fortifications for this determination. Instead, count the fortification itself as **one armored unit**.
+   - **Compare the Numbers:**
+     - **If Armored Units Predominate:** Treat the entire stack as **armored**.
+     - **If Non-Armored Units Predominate:** Treat the entire stack as **non-armored**.
+
+3. **Handling an Even Split:**
+   - If the number of **armored and non-armored unit counters** is **equal**, you must treat the stack as the **defense type least favorable to your attacking unit**.
+     - For example, if you're attacking with **non-armor-piercing weapons**, an equally mixed stack would be treated as **armored** to represent the least favorable condition.
+
+4. **Apply the Defense Type:**
+   - Once the stack is categorized as either **armored** or **non-armored**, apply the corresponding defense modifiers or rules based on that type for your direct fire attack.
+
+**Example Scenario:**
+- **Stack Composition:** 2 armored units, 2 non-armored units, and 1 fortification.
+  - **Counting Units:**
+    - Armored: 2 units + 1 (fortification) = **3 armored counters**
+    - Non-Armored: 2 units
+  - **Predominant Type:** Armored (3 vs. 2)
+  - **Defense Type Applied:** Treat the entire stack as **armored**.
+
+By following these steps, you ensure that your direct fire attack accurately reflects the defensive strength of a mixed unit stack in Panzer Leader.","When making a direct fire attack against units in a mixed stack, you determine what type of unit counter (armored or non-armored) predominates in the stack. Treat the entire stack as if all the units in it were that type of target. If the stack is divided evenly between armored and non-armored unit counters, treat the whole stack as if it were that type of target least favorable to the attacking unit(s). Units being transported are ignored, and only the carrier units are considered when determining predominance. Units inside fortifications are ignored for determining predominance; the fortification is counted as ONE armored unit."
+14, What are the two modifications applied to overrun attacks?," 1) The combat odds are increased by one column in favor of the attacker, and 2) ""2"" is subtracted from the die roll results. (Reference: Section VII.D.4. INCREASED COMBAT EFFECT)","The two modifications applied to overrun attacks in Panzer Leader are:
+
+1. **Stacking Limits Ignored**: Unlike other methods of attack, stacking limits are ignored for overruns. This means that more than the usual number of units can be involved in an overrun attack on a single target.
+
+2. **Terrain Conditions**: The entry and exit hexes do not need to be clear terrain; only the target hex must be clear terrain for the overrun attack to proceed. 
+
+These modifications allow for greater flexibility and tactical possibilities during overruns.","There are two key rule modifications for overrun attacks:
+
+1. They happen during movement and ignore stacking limits. Unlike other attacks, an overrun is both executed and resolved immediately as part of the movement phase. Furthermore, all units that intend to overrun a target are moved before any attack is resolved, and the usual stacking rules do not apply.
+
+2. They require moving through an enemy hex. To execute an overrun, the attacking unit(s) must move straight through the enemy-occupied hex, exiting into the adjacent hex directly opposite the entry point. The exit hex must be reachable with the unit’s remaining movement points and must be free of enemy units (though it can otherwise contain various terrain types), and the overrunning unit is not allowed to move beyond that exit hex during that movement phase.
+
+These modifications distinguish overruns from standard attacks in both timing and movement requirements.","In **Panzer Leader**, overrun attacks have two key modifications compared to standard attacks:
+
+1. **Stacking Limits Are Ignored**:
+   - When performing an overrun, the usual restrictions on how many units can occupy a hex are waived. This means multiple units can overrun the same target hex without being limited by stacking rules.
+
+2. **Immediate Resolution in the Movement Phase**:
+   - Overrun attacks are executed and resolved immediately during the movement phase. All units that intend to overrun the same target must move into position before the attack is carried out, ensuring that the overrun happens promptly as part of the movement sequence.
+
+These modifications allow for more dynamic and flexible maneuvering of armored units, reflecting the aggressive and swift nature of overrun tactics in the game.
+
+**Summary of the Two Modifications:**
+1. **Ignoring Stacking Limits**: Multiple units can overrun the same target without stacking restrictions.
+2. **Immediate Execution in Movement Phase**: Overrun attacks are carried out and resolved instantly during the movement phase.","1. Overruns are executed and immediately resolved as they occur in the movement phase.
+2. Stacking limits are ignored in this case."
+15, How is the Line-of-Sight (LOS) determined in PANZER LEADER?, The Line-of-Sight is a perfectly straight line measured from the center of the firing unit's hex to the center of the target unit's hex. The LOS is traced by placing a straightedge on the mapboard so that it runs through the midpoint dots of the firing unit's hex and the target unit's hex. (Reference: Section VII.I. HOW TO DETERMINE THE LINE-OF-SIGHT/LINE-OF-FIRE),"In PANZER LEADER, the Line-of-Sight (LOS) is determined by tracing a perfectly straight line from the center of the firing unit’s hex to the center of the target unit’s hex. This is done by placing a straightedge on the mapboard, ensuring that it runs through the midpoint dots of both the firing unit’s hex and the target unit’s hex. Once the LOS is established, players must check for any obstructions that could block the LOS, such as town hexes or other hex side symbols, using the TET and LOS/LOF OBSTRUCTIONS sections of the rules.","The LOS in Panzer Leader is determined by drawing a perfectly straight line from the center of the firing unit’s hex to the center of the target unit’s hex. Each hex has a dot marking its midpoint, so you use a straightedge to connect these dots. This line, which is equivalent to the Line-of-Fire, is then examined—using the rules on terrain obstructions (such as town hexes or other hex side symbols)—to see if any of those features block the view.","In **PANZER LEADER**, determining the **Line-of-Sight (LOS)** is a systematic process that ensures accurate assessments of visibility and firing capabilities between units. Here's how you establish the LOS:
+
+1. **Identify the Centers**:
+   - Locate the **center dot** of the **firing unit’s hex** and the **center dot** of the **target unit’s hex** on the mapboard. These dots represent the midpoints of their respective hexes.
+
+2. **Draw a Straight Line**:
+   - Use a **straightedge** to draw a perfectly straight line connecting the two center dots. This line represents the **Line-of-Sight** from the firing unit to the target unit.
+
+3. **Assess for Obstructions**:
+   - Once the LOS is drawn, examine the path of the line for any potential obstructions. This includes:
+     - **Town Hexes**: Any town hexes that the LOS passes through may block visibility.
+     - **Other Hex Side Symbols**: Depending on the game's terrain elevation table (TET) and specific LOS/LOF obstruction rules, certain terrain features or symbols on the hex sides can impede the LOS.
+
+4. **Determine LOS Validity**:
+   - Refer to the **TET and LOS/LOF Obstruction** sections of the rules to evaluate whether the identified obstructions along the LOS genuinely block the line of sight. If no obstructions are present, the LOS is clear, and the firing unit can engage the target. If obstructions are found, the LOS is considered blocked, preventing direct fire between the units.
+
+**Summary Steps**:
+1. **Locate Centers**: Find the midpoint dots of both firing and target hexes.
+2. **Trace LOS**: Draw a straight line connecting these midpoints.
+3. **Check for Obstructions**: Use game rules to identify any interfering terrain or symbols along the LOS.
+4. **Finalize LOS**: Determine if the LOS is clear or blocked based on the presence of obstructions.
+
+By following these steps, players can accurately determine the LOS in **PANZER LEADER**, ensuring strategic and fair gameplay.","In Panzer Leader, the Line-of-Sight (LOS) is determined by tracing a perfectly straight line from the center of the firing unit's hex to the center of the target unit's hex. This line is equivalent to the Line-of-Fire from the firing unit to the target unit. LOS is traced by placing a straightedge on the mapboard through the midpoint dots of both hexes, and any town hexes or other hex side symbols encountered in tracing the LOS may obstruct it."
+16, Under what conditions can a unit always fire at a target regardless of obstacles or terrain?," No matter what the obstacle or the terrain, a unit may ALWAYS fire at a target to which it is directly adjacent (regardless of elevation). (Reference: Section VII.J.8. ADJACENT)","A unit can always fire at a target regardless of obstacles or terrain if the target is directly adjacent to the firing unit. According to rule 8, adjacency allows for firing without concern for any obstacles or terrain that may be between the two units.","According to the Adjacent rule, a unit can always fire at a target if that target is directly adjacent. This holds true regardless of any obstacles, terrain differences, or elevation between the firing unit and the target.","A unit can **always fire at a target** **regardless of obstacles or terrain** when the target is **directly adjacent** to it. This means that if the target unit is immediately next to the firing unit—**sharing a common border or space**—the firing unit can engage the target **without any restrictions** related to elevation, obstacles, or terrain features.
+
+**Key Condition:**
+- **Direct Adjacency:** The target must be **directly adjacent** to the firing unit. This adjacency bypasses any other factors such as elevation differences or physical obstacles on the board.
+
+**Reference from the Rules:**
+> **8. Adjacent:** No matter what the obstacle or the terrain, a unit may ALWAYS fire at a target to which it is directly adjacent (regardless of elevation).
+
+This rule ensures that units in close proximity can maintain offensive capabilities without being hindered by the surrounding environment.","A unit can always fire at a target regardless of obstacles or terrain if it is directly adjacent to the target, as stated in the rule excerpt ""Adjacent: No matter what the obstacle or the terrain, a unit may ALWAYS fire at a target to which it is directly adjacent."""
+17," When are units in woods or town hexes considered ""spotted"" and can be fired upon by non-adjacent units?"," Units are spotted if: 1) There is a friendly, undispersed unit adjacent to the defending enemy unit, or 2) The defending unit has fired while in the LOS of a friendly undispersed unit during the previous player segment and that friendly unit can still trace an unobstructed LOS to the target. (Reference: Section VII.L.1. WOODS AND TOWN HEX DEFENSE)","Units in woods or town hexes are considered ""spotted"" and can be fired upon by non-adjacent units when at least one friendly unit has spotted them. A defending unit in a woods or town hex can be spotted if an L-5 unit is within ten (10) hexes of the enemy unit that is firing.","Units in woods or town hexes are normally protected from being fired on by non‐adjacent units—unless a friendly unit has “spotted” them. In practice, an enemy unit in a woods or town hex loses that concealment when one of your units actually detects it. For example, if the enemy unit fires from a woods or town hex and an L‑5 unit is within 10 hexes of that firing unit, then that enemy unit is spotted. Once spotted, the usual defense bonus of being in woods or town no longer prevents it from being targeted by non‐adjacent friendly units.","In **Panzer Leader**, units stationed in **woods** or **town hexes** benefit from defensive advantages, making them harder to target. However, these units can be **""spotted""** and thus become vulnerable to attack from non-adjacent friendly units under specific conditions. Here's when units in woods or town hexes are considered ""spotted"":
+
+1. **Detection by Friendly Units:**
+   - **Spotting Requirement:** For a unit in a woods or town hex to be targeted by non-adjacent friendly units, it must first be **""spotted""** by at least one friendly unit.
+   
+2. **Sighting with L-5 Units:**
+   - **Sighting Range:** An **L-5 unit** has the capability to sight enemy units in clear terrain up to **30 hexes** away.
+   - **Special Condition for Woods and Towns:** If an enemy unit within a woods or town hex **fires**, it can be **spotted** by an L-5 unit that is within **10 hexes** of the firing unit.
+
+**Summary:**
+- **Units in Woods/Town Hexes are ""Spotted"" When:**
+  - **A friendly L-5 unit is within 10 hexes** of the enemy unit **and** the enemy unit **fires**.
+  - **At least one friendly unit** successfully **spots** the enemy unit through other approved detection methods (as outlined in additional game rules beyond the provided excerpts).
+
+Once a unit in a woods or town hex is **spotted**, it removes the restriction on targeting, allowing **non-adjacent friendly units** to fire upon it.","Units in woods or town hexes are considered ""spotted"" and can be fired upon by non-adjacent units when they have been ""spotted"" by at least one friendly unit according to the rules of Panzer Leader."
+18, What is unique about how indirect fire attacks are designated compared to direct fire?," Unlike direct fire attacks, the target hex for indirect fire must be designated at the beginning of the combat phase of the previous turn by secretly writing down the target hex coordinates and the firing units. (Reference: Section VII.C.3. IF ORDERS IN PREVIOUS TURN)","Indirect fire attacks in Panzer Leader are unique compared to direct fire in that they are directed against specific hexes rather than specific enemy units. This means that an indirect fire attack can be designated on a hex that may not even contain enemy units at the time of the attack. In contrast, direct fire requires the firing unit to have a direct line of sight to the target, meaning it must be able to ""see"" the specific unit or hex it is attacking. Additionally, for indirect fire, it is only necessary for another friendly unit to have a direct line of sight to the target hex, allowing for greater flexibility in planning attacks.","Indirect fire attacks are unique because they target a specific hex rather than a specific enemy unit. This means that when designating an indirect fire attack, you don't have to choose a unit directly in view of the firing artillery. Instead, you can designate a hex—even if it's empty at the time—anticipating that enemy forces might move into it later. Additionally, the firing unit doesn’t need to have a direct line of sight; it only requires that another friendly unit be able to ""see"" the target hex.","Indirect fire attacks in **Panzer Leader** have a distinct method of designation compared to direct fire. The unique aspects are as follows:
+
+1. **Targeting Hexes, Not Specific Units**: Unlike direct fire, which typically targets specific enemy units within a line of sight, indirect fire is aimed at entire hexes. This means you can designate an attack on a hex regardless of whether an enemy unit is present at the time of targeting. The targeted hex might even be empty initially, anticipating that enemy units will move into it later.
+
+2. **No Direct Line of Fire (LOF) Required for the Firing Unit**: For direct fire, the firing unit must have a direct line of sight to the target. In contrast, indirect fire does not require the firing unit to see the target hex directly. Instead, it relies on another friendly unit that has a direct line of sight to the target hex. This allows artillery units to attack areas that they themselves cannot directly observe, provided that a friendly unit can ""see"" the target.
+
+3. **Special Conditions for Certain Terrain**: When dealing with woods and town hexes, indirect fire attacks can only be designated if a friendly unit is adjacent to those hexes or if an enemy unit has fired from them. This ensures that there is some form of visibility or recent activity in those areas to justify the indirect attack.
+
+**In summary**, the uniqueness of indirect fire designation lies in its ability to target specific hexes without the firing unit needing a direct view, leveraging the line of sight of other friendly units to determine valid targets.
+
+**Key Points:**
+- Targets entire hexes, not specific units.
+- Firing unit doesn't need direct line of sight.
+- Relies on another friendly unit’s visibility of the target hex.
+- Special rules apply for terrain features like woods and towns.
+
+**Reference:** Based on sections 4 and 6 of the Panzer Leader rules provided.
+
+Indirect fire uniquely allows a player to target specific hexes without the firing unit needing a direct line of sight. Instead of requiring the firing unit to see the target, indirect fire designates a hex based on another friendly unit’s line of sight to that location, focusing on hexes rather than specific enemy units.","Indirect fire attacks are directed against specific hexes, not necessarily specific enemy units, and the firing unit itself is not required to trace a ""direct line of fire"" to the target. This means that the firing unit doesn't have to ""see"" the target hex in order to conduct an indirect fire attack."
+19," What happens when all units spotting for indirect fire are destroyed, dispersed, or move away between designation and execution of fire?"," The fire may become scattered. To determine if the fire scatters, roll the die once and consult the Scatter Chart. A roll of 1-2 means fire hits normally, 3-5 means fire hits one of six adjacent hexes (determined by another roll), and 6 means fire is widely dispersed with no effect. (Reference: Section VII.C.8. SCATTERED)","When all units spotting for a particular target hex are destroyed, dispersed, or move away between the time the indirect fire is designated and when it is executed, the fire may become scattered. To determine if the fire scatters, you roll a die once and consult the Scatter Chart. The possible outcomes based on the die roll are as follows:
+
+- **1 or 2:** Indirect fire hits the target normally.
+- **3, 4, or 5:** Indirect fire hits one of the six adjacent hexes. You roll the die once more to determine which hex is hit according to the Scatter Diagram.
+- **6:** Indirect fire is widely dispersed and does not attack the units in the target hex. Instead, if the fire is scattered, the full effect of the indirect fire is applied to one of the adjacent hexes based on the die roll, impacting units in that hex (whether enemy or friendly) with the full effect of the attack.","When all units spotting (or sighting) the target hex are destroyed, become dispersed, or move away between the designation and execution of the indirect fire, the fire may scatter. This means that instead of being applied normally to the intended target hex, you roll one die to determine how the fire is dispersed:
+
+• If you roll a 1 or 2, the indirect fire still hits the target hex normally.
+• If you roll a 3, 4, or 5, the fire is applied to one of the six adjacent hexes. In this case, you roll an additional die and consult the Scatter Diagram to determine which adjacent hex is affected.
+• If you roll a 6, the fire is considered widely dispersed and no units in the target hex are hit.
+
+This rule reflects the importance of maintaining a good, undispersed spotting team during an indirect fire attack.","When all units **spotting** for indirect fire are **destroyed**, **dispersed**, or **move away** between the designation and execution of the fire in **Panzer Leader**, the indirect fire may become **scattered**. Here's how it works:
+
+1. **Determine Scattering**:
+   - **Roll a single die** to check if the indirect fire scatters and how it behaves.
+
+2. **Consult the Scatter Chart** based on your die roll:
+   
+   - **Roll of 1 or 2**:
+     - **Indirect fire hits the intended target normally**.
+   
+   - **Roll of 3, 4, or 5**:
+     - **Indirect fire hits one of the six adjacent hexes** surrounding the target.
+     - **Roll the die again** and use the Scatter Diagram to determine **which specific adjacent hex** is hit.
+   
+   - **Roll of 6**:
+     - **Indirect fire is widely dispersed** and **does not affect any units** in the target hex or its adjacent hexes.
+
+3. **Apply the Effects**:
+   - If the fire **hits an adjacent hex** (from a roll of 3-5), the **full effect of the indirect fire** is applied to that hex. This means **all units** (both **enemy and friendly**) within that adjacent hex receive the **full impact** of the attack.
+   - If the fire **widely disperses** (from a roll of 6), **no units** in the target or adjacent hexes are affected.
+
+**Summary**:
+When all spotting units are unavailable at the time of firing, indirect fire becomes unreliable. Depending on a die roll, it may still hit the intended target, strike an adjacent area, or fail to impact any units at all. This mechanic adds an element of unpredictability to indirect engagements when your spotting capabilities are compromised.","When all units spotting for indirect fire are destroyed, dispersed, or move away between the designation and execution of fire, the indirect fire may become scattered. To determine if the fire scatters, a die is rolled and the Scatter Chart is consulted. Depending on the result of the die roll (1-6), the indirect fire may hit the target hex normally, hit one of the six adjacent hexes, or be widely dispersed with no units in the target hex being attacked. If the fire is scattered, the full effect of the indirect fire is applied to one of the adjacent hexes according to the die roll. Units in that hex, whether enemy or friendly, receive the full effect of the attack."
+20,"How do mines affect unit movement, and what happens to dispersed units on minefields?"," When a unit moves onto a mine, it must stop immediately. During the combat phase, the minefield attacks all units at 2-to-1 odds regardless of terrain, with each unit attacked separately. Units that survive can move off in their next turn. Dispersed units cannot move off minefields and must suffer another minefield attack in the following turn.","In Panzer Leader, mines affect unit movement in the following ways:
+
+1. **Minefield Attack**: When a unit enters a hex containing a minefield, it is subject to a minefield attack. The opposing player rolls a die for the minefield, which attacks all units in that hex at a 2 to 1 odds ratio, regardless of the terrain. Each unit on the minefield counter is attacked separately. Surviving units may then move away from the minefield in their next turn.
+
+2. **Effect on Engineers**: Engineer units can clear minefields. However, if an engineer unit becomes dispersed while attempting to clear a minefield, the clearing process is temporarily halted. Once the engineer unit is undispersed, the clearing sequence resumes at the step where the dispersal occurred. Until the minefield is completely cleared (inverted and mine counters removed), units entering that hex will still be subject to the regular minefield attack. 
+
+In summary, minefields pose a threat to units entering their hex by potentially inflicting damage, and the process of clearing mines is interrupted if the engineer unit becomes dispersed.","Mines don’t physically block movement—instead, being in or entering a hex with a minefield exposes any unit there to a mine attack. During the opponent’s combat phase, the minefield “attacks” every unit present (each unit is attacked separately) using rolls at 2-to-1 odds, regardless of the underlying terrain. Even if a unit survives such an attack, it must wait until its next turn to try and leave the hex.
+
+In addition, if an engineer is in the process of clearing (or “inverting”) a minefield and becomes dispersed (meaning its formation is broken up by enemy action), the clearing process is temporarily halted. Once the engineer is no longer dispersed, the mine-clearing sequence restarts from the same step at which the interruption occurred. Furthermore, even after a minefield has been “inverted” by the clearing process, the mine counter remains in place until physically removed by the engineer—so any other units that enter the hex will still face the normal minefield attack.","In **Panzer Leader**, minefields significantly impact unit movement and introduce strategic challenges for both players. Here's how mines affect movement and what happens when engineers are dispersed on minefields:
+
+### **Impact of Mines on Unit Movement**
+
+1. **Minefield Attacks on Units:**
+   - **Probability:** Whenever a unit **enters** a hex containing a minefield or is already present in one, the minefield poses a threat by attacking the unit with **2 to 1 odds**. This means for every successful unit movement, there's a 1-in-3 chance the unit will suffer from the minefield attack.
+   - **Independent Attacks:** Each unit within a minefield is **attacked separately**. This ensures that multiple units in the same minefield each face individual risks rather than a collective threat.
+
+2. **Surviving Units:**
+   - **Post-Attack Movement:** If a unit **survives** the minefield attack, it has the opportunity to **move off** the minefield in its **next turn**, allowing for tactical repositioning and minimizing prolonged exposure to mine risks.
+
+### **Role of Engineers and Dispersal on Minefields**
+
+1. **Clearing Minefields:**
+   - **Engineer’s Role:** An **engineer unit** is responsible for **clearing minefields**. This process involves a sequence of steps to safely invert (remove) the mine counters from the hex.
+   
+2. **Dispersal of Engineers:**
+   - **Interruption of Clearing Process:** If the engineer unit involved in clearing a minefield is **dispersed** (rendered unable to perform its duties) at any point during the clearing sequence, the entire **clearing process is temporarily halted**.
+   - **Resumption of Clearing:** Once the dispersed engineer is **undispersed** (regains its ability to act), the mine-clearing sequence **restarts** from the exact step where the dispersal occurred, ensuring that no progress is lost.
+
+3. **Ongoing Minefield Threats:**
+   - **Persistent Danger:** Until the engineer successfully clears the minefield by removing the mine counters, **all units** that **enter** the minefield hex remain **vulnerable** to the standard minefield attacks. This holds **regardless of terrain**, maintaining the minefield as a strategic obstacle until fully cleared.
+
+### **Strategic Implications**
+
+- **Risk Management:** Players must weigh the risks of moving units through or near minefields against the potential strategic advantages those areas might offer.
+- **Protecting Engineers:** Safeguarding engineer units becomes crucial, as their dispersal can delay mine clearance, prolonging the threat to other units.
+- **Timing Movements:** Coordinating unit movements to either quickly clear minefields or avoid them can be pivotal in gaining control over key areas of the battlefield.
+
+By understanding these mechanics, players can better navigate the challenges posed by minefields, leveraging engineers effectively while mitigating the risks to their units.","Mines affect unit movement by attacking all units on a minefield counter at 2 to 1 odds during the combat portion of the opposing player's turn, regardless of terrain. Each unit on a minefield counter is attacked separately. Surviving units may move off in their next turn. 
+
+If an engineer unit is dispersed while trying to clear a minefield, the clearing process is temporarily halted. When the engineer unit is undispersed, the sequence is restarted at the step where the dispersal took place. Once the minefield is cleared, other units entering that hex are still at risk of a minefield attack until the engineer unit removes the mine counter."
+21,What is the process for an engineer unit to clear a minefield?," Minefield clearing is a four-turn process: On Turn 1, the engineer unit moves adjacent to the minefield. On Turn 2, the minefield counter is inverted at the beginning of the movement phase. On Turn 3, the engineer unit moves onto the minefield. On Turn 4, the minefield is removed at the beginning of the movement phase.","According to the rules provided, the process for an engineer unit to clear a minefield in Panzer Leader involves the following steps:
+
+1. **Move onto the Minefield:** The engineer unit must first move onto the minefield counter during its turn.
+
+2. **Clear One Minefield at a Time:** The engineer unit may only clear one minefield counter at a time. This means that if there are multiple minefields, the engineer must address them one by one.
+
+3. **No Attacking or Loading:** While engaged in minefield clearing, the engineer unit is prohibited from attacking in any manner or loading into a carrier vehicle. This means that the unit's focus is solely on clearing the minefield.
+
+These steps ensure that the engineer unit efficiently and effectively clears the minefields while adhering to the game's rules.","An engineer unit (or a tank unit with engineer capabilities like the Sherman Flail) clears a minefield in the following way:
+
+• On the third turn, the engineer unit must move onto the minefield square.  
+• Once on the minefield, the engineer may clear only one minefield counter at a time.  
+• While the engineer is engaged in clearing a minefield counter, it cannot perform any attacks or be loaded into a carrier vehicle.
+
+This means that during a turn when mine-clearing is being attempted, the engineer commits solely to the task of clearing a single counter from the minefield without engaging in any other actions.","To clear a minefield using an engineer unit in **Panzer Leader**, follow these steps based on the game rules:
+
+1. **Move Onto the Minefield (Turn 3):**
+   - During Turn 3, maneuver the engineer unit to move directly onto the minefield you intend to clear. This positioning is essential for initiating the mine-clearing process.
+
+2. **Clear One Minefield Counter at a Time:**
+   - An engineer can only clear **one minefield counter per action**. This limitation ensures that each minefield is addressed individually, maintaining game balance and strategic depth.
+
+3. **Engage in Minefield Clearing:**
+   - While the engineer is actively clearing a minefield:
+     - **No Attacks Allowed:** The engineer cannot perform any attack actions. Their focus must solely be on neutralizing the mines.
+     - **No Loading into Carrier Vehicles:** The engineer is restricted from loading into carrier vehicles during the clearing process, ensuring they remain dedicated to the task at hand.
+
+4. **Completion:**
+   - Once the engineer successfully clears the minefield counter, the area becomes safe for movement of units. The engineer can then proceed to other actions on subsequent turns, such as attacking or loading into carriers, provided they are not engaged in another mine-clearing operation.
+
+**Summary:**
+To clear a minefield, an engineer unit must move onto the minefield during Turn 3, clear one minefield counter at a time, and remain focused on this task without attacking or loading into carriers until the clearing is complete.","The process for an engineer unit to clear a minefield is as follows:
+1. The engineer unit moves onto the minefield.
+2. The engineer unit may only clear one minefield counter at a time.
+3. While engaged in minefield clearing, the engineer may not attack in any manner or load into a carrier vehicle."
+22,"How do ""Spotted"" markers work, and under what conditions can enemy units be spotted?"," ""Spotted"" markers are placed on enemy units that fire while in the line of sight (LOS) of friendly undispersed units. These markers remain until the enemy units are no longer in friendly LOS, or all friendly spotting units are dispersed, or the firing unit moves out of its initial firing hex into an unspotted town or woods hex.","""Spotted"" markers are used in Panzer Leader to indicate enemy units that have been observed or detected by friendly units. Here’s how they work and the conditions under which enemy units can be spotted:
+
+1. **Condition for Spotting**: An enemy unit can be marked as ""Spotted"" if it has fired (used its attack strength in a non-CAT attack) while in the Line of Sight (LOS) of a friendly undispersed unit during the previous player segment. Additionally, the friendly unit must still be able to trace an unobstructed LOS to the enemy unit at the time of marking.
+
+2. **Duration of Marking**: Once an enemy unit is marked as ""Spotted,"" the marker remains in place until one of the following conditions occurs:
+   - The enemy unit moves out of the friendly unit's LOS.
+   - All friendly units that could potentially spot the enemy unit are dispersed.
+   - The enemy unit moves into an unspotted town or woods hex after firing.
+
+3. **Firing Restrictions for Defenders**: If an enemy unit is in a woods or town hex, it cannot be fired upon by friendly units that are not directly adjacent unless it has been ""spotted"" by at least one friendly unit.
+
+4. **Marking Dispersed Units on Sea Hexes**: If allied units are dispersed while in sea hexes, they are not inverted. Instead, a ""Spotted"" marker is placed on them temporarily to avoid confusion. When these dispersed units move to beach hexes, the ""Spotted"" marker is removed, and they remain inverted.
+
+In summary, a ""Spotted"" marker indicates that an enemy unit has been detected under specific conditions, primarily involving its firing status and the position of friendly units.","""Spotted"" markers are used to indicate that an enemy unit has fired (using its attack strength in a non-CAT attack) while it was in the direct, unobstructed line‐of-sight (LOS) of one or more friendly, undispersed units. When an enemy fires under these conditions, the friendly unit places a ""Spotted"" marker on that enemy unit immediately as the firing occurs. (Note that if a friendly unit becomes dispersed as a result of that enemy fire, it cannot be used to fulfill the spotting requirement.)
+
+Once an enemy unit has been marked, the marker stays on it until one of the following occurs:
+• The enemy unit is no longer in any friendly LOS.
+• All the friendly units that could spot it have become dispersed.
+• The enemy unit moves out of the hex where it initially fired and enters a town or woods hex that does not already have a ""Spotted"" marker.
+
+An additional point is that certain terrain effects are in play. If an enemy unit is in a woods or town hex, friendly units that are not directly adjacent cannot normally fire on it. However, if the enemy unit has been ""spotted"" (i.e. carries a ""Spotted"" marker), then friendly units can fire at it even if they are not adjacent.
+
+In summary, enemy units can be spotted if they fire from within the LOS of friendly undispersed units, and the markings remain until the enemy is no longer in sight, the friendly spotting units become dispersed, or the enemy moves into an unspotted woods or town hex. This mechanism is especially important because it allows friendly units to target enemy units that might otherwise be protected by difficult terrain.","In **Panzer Leader**, ""Spotted"" markers play a crucial role in determining whether enemy units, especially those in concealed areas like woods or towns, can be targeted by your forces. Here's a detailed explanation of how ""Spotted"" markers function and the conditions under which enemy units become spotted:
+
+### **How ""Spotted"" Markers Work**
+
+1. **Placement of ""Spotted"" Markers:**
+   - **Triggering the Marker:**
+     - When an **enemy unit fires** (uses its attack strength in a non-CAT attack) **while within the Line of Sight (LOS)** of a **friendly undispersed unit** during the **previous player segment**, the enemy unit is considered to have been observed.
+     - **Condition for Placement:**
+       - The friendly spotting unit must still have an **unobstructed LOS** to the enemy unit after it has fired.
+       - **Dispersed friendly units** cannot fulfill the spotting requirement.
+   - **Marker Duration:**
+     - The ""Spotted"" marker remains on the enemy unit **until one** of the following conditions is met:
+       - The enemy unit **moves out of friendly LOS**.
+       - **All friendly units** capable of spotting the enemy are **dispersed**.
+       - The enemy unit **relocates** from its initial firing hex into an **unspotted town or woods hex**.
+
+2. **Special Considerations for Dispersed Units:**
+   - **Dispersed Allied Units on Sea Hexes:**
+     - Instead of being inverted (turned face-down), dispersed allied units on sea hexes receive a **temporary ""Spotted"" marker** placed on top of them to indicate their dispersed status.
+   - **Movement to Beach Hexes:**
+     - When these dispersed units move to beach hexes, the ""Spotted"" marker is **removed**, and the units remain **inverted**.
+
+### **Conditions Under Which Enemy Units Can Be Spotted**
+
+1. **Enemy Units in Concealed Areas (Woods or Towns):**
+   - **Default Restriction:**
+     - Enemy units positioned within **woods or town hexes** **cannot be targeted** by friendly units **unless they are directly adjacent**.
+   - **Spotted Exception:**
+     - To **overcome** this restriction, the enemy unit must be **“spotted”** by at least **one friendly unit**. This allows your forces to fire upon the concealed enemy unit despite the cover provided by the terrain.
+
+2. **Enemy Firing within Friendly LOS:**
+   - When an enemy unit **fires within the LOS** of a **friendly undispersed unit**, it becomes a target that can be **spotted**.
+   - This mechanism ensures that enemy units actively engaging your forces are **tracable** and can be **countered** effectively.
+
+### **Summary**
+
+- **""Spotted"" markers** are essential for identifying and targeting enemy units, especially those utilizing terrain for concealment.
+- **Enemy units are spotted** when they **fire** within the LOS of **friendly undispersed units**, allowing your forces to engage them even in covered positions.
+- **Maintaining LOS** and ensuring that **friendly spotting units remain effective** are key to keeping ""Spotted"" markers active on enemy units.
+
+By effectively managing ""Spotted"" markers, you can enhance your strategic options and improve your ability to counter enemy movements and attacks in **Panzer Leader**.","""Spotted"" markers are used to indicate that an enemy unit has been detected by friendly units. Enemy units can be spotted under the following conditions:
+
+1. Enemy Unit Has Fired In Friendly Unit LOS: If an enemy unit fires (uses its attack strength in a non-CAT attack) while in the line of sight (LOS) of a friendly undispersed unit, and that friendly unit can still trace an unobstructed LOS to the target, a ""Spotted"" marker is placed on the enemy unit.
+2. Woods And Town Hex Defense: When a defending enemy unit is in a woods or town hex, it may not be fired upon by friendly units which are not directly adjacent unless it has been ""spotted"" by at least one friendly unit. Once a friendly unit spots the enemy unit, a ""Spotted"" marker is placed on it.
+
+These markers remain on the enemy units until they are no longer in friendly LOS, all friendly spotting units are subsequently dispersed, or the firing unit moves out of its initial firing hex into an unspotted town or woods hex. Additionally, allied units that are dispersed while on sea hexes have a temporary ""Spotted"" marker placed on top of them until they are moved to beach hexes, at which point the marker is removed."
+23,"What is the maximum number of wrecks allowed in a single hex, and what happens if additional armored units are destroyed in that hex?"," The maximum number of wrecks allowed per hex is three. If an armored unit is destroyed in a hex already containing three wrecks, no additional wreck markers are placed; the unit is simply removed from the mapboard.","The maximum number of wrecks allowed in a single hex is three. If an armored unit is destroyed in a hex that already contains three wreck counters, no additional wreck markers are placed in that hex; instead, the armored unit is simply removed from the mapboard.","The maximum number of wrecks allowed in a single hex is three. If an additional armored unit is destroyed in a hex that already contains three wreck counters, no new wreck marker is placed—the unit is simply removed from the board.","In **Panzer Leader**, the maximum number of wrecks allowed in a single hex is **three**. 
+
+**What Happens If Additional Armored Units Are Destroyed in a Hex with Three Wrecks:**
+- If an armored unit is destroyed in a hex that already contains three wreck counters, the destroyed unit is simply **removed from the mapboard**.
+- **No additional wreck counters** are placed in that hex beyond the three-counter limit.
+
+This rule ensures that each hex maintains a manageable number of wrecks, preventing overcrowding and maintaining clarity on the game board.
+
+**Reference from the Rules:**
+- **Maximum Of Three Wrecks Per Hex:** No more than THREE wreck counters are ever placed in any single hex. If an armored unit is destroyed in a hex containing three wrecks, no additional wreck markers are placed; the armored unit is simply removed from the mapboard.
+- **WRECKAGE:** When an armored unit is destroyed, it is replaced with a wreck counter up to a maximum of three wrecks per hex.","The maximum number of wrecks allowed in a single hex is three. If an additional armored unit is destroyed in a hex containing three wrecks, no additional wreck markers are placed in that hex; the armored unit is simply removed from the mapboard."
+24,"How do fortifications affect the defense strength of units inside them, and what happens if a fortification is destroyed?"," Units in fortifications defend using only the defense strength of the fortification; their own defense strengths are ignored. Fortifications are treated as ARMORED targets. If a fortification is destroyed, any units inside it are also destroyed, and the fortification is replaced with a single wreck counter.","Fortifications do not explicitly affect the defense strength of units inside them in the provided excerpts. However, they do provide a tactical advantage in that friendly units inside a fortified position can attack enemy units that are adjacent or on top of the fortification as if they were in an adjacent hex.
+
+If a fortification is destroyed, any units inside it are also destroyed. The destroyed fortification counter is then replaced with a single wreck counter, regardless of the number or types of units that were inside it.","Fortifications don’t boost a unit’s combat strength—the rules state that a unit attacking from a fortification uses its normal attack strength. Being inside a fortification mainly affects movement (for example, if enemy units are on the fortification, friendly units inside can’t leave or be joined by more friendly units) but does not change the inherent defensive or offensive ratings of those units.
+
+If a fortification is destroyed, however, then any units inside it are destroyed as well. In that situation, the fortification counter is simply replaced by a single wreck counter, no matter how many or which types of units were inside it.","In **Panzer Leader**, fortifications play a crucial role in both offensive and defensive strategies. Based on the provided rule excerpts:
+
+### **Effect of Fortifications on Defense Strength:**
+While the excerpts you've shared do not explicitly detail how fortifications modify the **defensive strength** of units within them, fortifications generally imply enhanced defensive capabilities in board games like Panzer Leader. Typically, being inside a fortification would:
+- **Increase Defensive Bonuses:** Units may receive bonuses that make them harder to hit or reduce the damage they take from enemy attacks.
+- **Provide Protection:** Fortifications can act as barriers, limiting the types of attacks that can be made against the units inside.
+
+However, since the specific rule excerpts provided do not elaborate on the exact defensive modifiers, it's advisable to refer to the complete game rules for detailed information on how defense strength is affected by fortifications.
+
+### **Destruction of a Fortification:**
+According to **Rule 5: Destruction**:
+- **Total Loss of Units:** If a fortification is destroyed, **all units inside it are also destroyed**. This represents the complete loss of the defensive position and the forces it was protecting.
+- **Wreck Counter Replacement:** The destroyed fortification counter is replaced with **a single wreck counter**, irrespective of the number or types of units that were housed within it. This simplifies the game state by standardizing the aftermath of a fortification's destruction.
+
+Additionally, from section **c) Enemy Units Block Movement**:
+- **Restricted Movement:** Enemy units occupying a fortification block friendly units from entering or exiting that hex unless the fortification is destroyed.
+- **Combat Dynamics:** Units inside the fortification can still engage enemy units within range, but certain tactics, like close assault, are restricted when enemy units are present on the fortification.
+
+### **Summary:**
+- **Defense Strength:** While not explicitly detailed in the provided excerpts, fortifications typically enhance the defensive strength of units inside them.
+- **Destruction Consequences:** Destroying a fortification results in the annihilation of all contained units and replaces the fortification with a wreck counter, effectively removing the defensive advantage from that location.
+
+For comprehensive understanding and specific modifiers related to defense strength, consulting the full **Panzer Leader** rulebook is recommended.","Fortifications do not affect the defense strength of units inside them. Units inside fortifications use their normal attack strength when attacking. If a fortification is destroyed, any units inside it are also destroyed. The fortification counter is replaced with a single wreck counter, regardless of the number or types of units inside."
+25,What's the difference between units placed ON TOP of a fortification versus units placed INSIDE a fortification?," Units INSIDE a fortification are placed UNDER the fortification counter and use the fortification's defense strength. Units ON TOP (outside) of a fortification and the fortification itself may be attacked individually or in combination like normal targets. Enemy units may be on top while friendly units are inside, creating unique combat situations.","The key differences between units placed ON TOP of a fortification and those placed INSIDE a fortification in Panzer Leader are as follows:
+
+1. **Positioning and Movement**:
+   - Units INSIDE a fortification are indicated by being placed UNDER the fortification counter. They cannot leave the fortification if enemy units are on top of it and friendly units cannot enter the fortification while enemy units are present on top.
+   - Units ON TOP of a fortification are positioned outside of it and can move freely unless blocked by other enemy units. They can also be attacked individually or in combination.
+
+2. **Attack Mechanics**:
+   - Units INSIDE the fortification can attack enemy units within range and treat those enemy units on top of the fortification as if they were adjacent. However, they cannot use close assault tactics while attacking.
+   - Units ON TOP of the fortification can be attacked in a normal manner, and they can also engage in combat as if they were in a regular situation without any special restrictions related to the fortification.
+
+3. **Stacking Rules**:
+   - Units INSIDE a fortification do not count against the stacking limits in the hex containing the fortification.
+   - Units ON TOP of the fortification do count as one unit when determining the stacking limits of that hex, limiting the number of units that can be in the same hex with them.
+
+In summary, units INSIDE a fortification have restrictions based on enemy presence and additional combat rules, while units ON TOP have more flexibility in terms of movement and combat but contribute to stacking limits.","Units INSIDE a fortification are placed underneath the fortification counter whereas units ON TOP are the ones “sitting” on the counter. This difference has several gameplay implications:
+
+1. Movement and Access:  
+ • Friendly units inside a fortification are essentially sealed in when enemy units occupy the fortification (units on top); they cannot leave the fortification, nor can other friendly units enter.  
+ • Units on top (outside) are exposed and can be individually or collectively targeted as normal.
+
+2. Attacking/Defensive Role:  
+ • Units inside can still attack enemy units within range—even those sitting on the fortification—with the benefit that when they attack these enemy units, they treat them as if they were adjacent to them.  
+ • Conversely, enemy units on top can also attack the fortification as if they were adjacent. However, if enemy units are on top, the units inside lose the option to use close assault tactics.
+
+3. Stacking Considerations:  
+ • Fortifications do not affect the stacking limits on units inside them (you could have several inside without affecting stacking limits for those units).  
+ • However, for units stationed outside (on top) of the fortification, the fortification counts as one unit, which means that together they must respect the stacking limits in that hex.
+
+In summary, units inside the fortification enjoy certain protections and offensive benefits while being somewhat locked into the fortification, whereas units on top are more vulnerable, can be targeted separately, and affect stacking rules.","In **Panzer Leader**, fortifications play a crucial role in strategic positioning and defense. Understanding the differences between units placed **ON TOP** versus **INSIDE** a fortification is essential for effective gameplay. Here's a detailed comparison based on the game rules:
+
+---
+
+### **Units **Inside** a Fortification**
+
+1. **Placement:**
+   - **How to Indicate:** Units inside a fortification are placed **UNDER** the fortification counter on the game board.
+   
+2. **Movement Restrictions:**
+   - **Blocked by Enemy Units:** If enemy units occupy the fortification (i.e., are on top), friendly units inside **cannot leave** the fortification.
+   - **Entry Blocked:** Similarly, other friendly units cannot **enter** the fortification if it's blocked by enemy units on top.
+
+3. **Combat Capabilities:**
+   - **Attacking Enemy Units:** 
+     - Units inside can **attack** any enemy units within range, including those positioned on top of the fortification.
+     - When attacking units on top, those inside attack **as if they are adjacent** to the enemy units.
+   - **Defensive Attacks:**
+     - Enemy units on top can attack the fortification **as if they were adjacent**.
+   - **Restrictions on Tactics:** Units inside the fortification **cannot** use **close assault tactics** when attacking enemy units on top.
+
+4. **Stacking Limits:**
+   - **No Impact:** Fortifications **do not** count against the stacking limits for units inside them.
+   - **Capacity:** This allows multiple units to be placed inside without worrying about exceeding stacking limits. For example, a hex with a fortification might hold up to **four units inside**.
+
+---
+
+### **Units **On Top** of a Fortification**
+
+1. **Placement:**
+   - **How to Indicate:** Units on top of a fortification are placed **ON TOP** of the fortification counter, representing that they are **outside** the fortification.
+
+2. **Movement and Accessibility:**
+   - **Vulnerability:** Units on top are **directly accessible** to enemy units and can be targeted individually or in combination with the fortification itself.
+
+3. **Combat Capabilities:**
+   - **Attacking and Defense:**
+     - Friendly units on top can be attacked **individually** or alongside the fortification as a **single target**.
+     - They engage in combat like **normal units** on the battlefield, without the adjacency modifiers that apply to units inside.
+
+4. **Stacking Limits:**
+   - **Fortification Counts as One Unit:** The fortification itself counts as **one unit** for stacking purposes.
+   - **Additional Units:** Depending on the rules, a hex with a fortification can hold additional units on top. For instance, a hex might accommodate up to **three additional units outside** the fortification, in addition to the units inside.
+
+---
+
+### **Key Differences Summarized**
+
+| Aspect | **Inside the Fortification** | **On Top of the Fortification** |
+|---|---|---|
+| **Placement Indicator** | Under the fortification counter | On top of the fortification counter |
+| **Movement** | Restricted if enemy units are on top | Free movement, but vulnerable to attacks |
+| **Combat** | Can attack enemies on top as if adjacent; cannot use close assault tactics | Engage in regular combat; can be targeted individually or with the fortification |
+| **Stacking Limits** | Do not count against stacking limits; allows more units inside | Fortification counts as one unit; limits the number of units on top |
+| **Strategic Use** | Defensive stronghold; units are protected but immobile if blocked | Flexible positioning; units are accessible for both offensive and defensive actions |
+
+---
+
+### **Strategic Implications**
+
+- **Defensive Strategy:** Placing more units **inside** a fortification enhances defense, making it harder for enemies to dislodge your units without significant effort.
+- **Flexible Engagement:** Having units **on top** allows for quicker responses to enemy movements and the ability to launch counter-attacks.
+- **Stacking Management:** Balancing the number of units inside and on top helps in managing stacking limits while maximizing both defense and tactical flexibility.
+
+By leveraging the distinct advantages of both inside and on top placements, players can create robust defensive positions while maintaining the ability to respond dynamically to the evolving battlefield.","Units placed ON TOP of a fortification are considered to be ""outside"" the fortification. They can be attacked individually or in combination like normal targets. Units placed INSIDE a fortification may not leave or be entered by other friendly units if enemy units are on top of the fortification. However, they can still attack enemy units within range as if they were adjacent to them, and enemy units can attack the fortification as if they were adjacent to it. Units inside the fortification do not count against stacking limits, but the fortification itself counts as one unit for stacking purposes for units outside of it."
+26,What special capabilities does a Sherman Flail tank have compared to regular tanks?," A Sherman Flail tank can clear minefields. It does this by moving into the minefield hex, ending movement, and in the following movement phase, expending half its movement allowance to leave the hex. As the flail leaves the hex, the minefield is removed from the board. Flail tanks cannot be harmed by minefields.","The Sherman Flail tank has the special capability to clear minefields, which regular tanks do not possess. While it performs like a normal tank unit in other respects, this unique ability distinguishes it from standard tanks in the game.",The Sherman Flail acts like a normal tank unit with one key difference—it has the special capability to clear minefields. This mine-clearing function sets it apart from regular tanks in the game.,"In **Panzer Leader**, the **Sherman Flail** tank possesses a unique special capability that sets it apart from regular tanks:
+
+### **Mine-Clearing Ability**
+
+- **Primary Function:** While the Sherman Flail operates similarly to standard tank units regarding movement and combat, its standout feature is its ability to **clear minefields**.
+  
+- **Operational Advantage:** This capability allows the Sherman Flail to **remove mines** from designated areas on the battlefield, enabling safer passage for allied units and preventing enemy forces from using mined terrain to their advantage.
+
+- **Procedure:** Although the detailed procedure for mine-clearing isn't provided in the excerpt, typically, utilizing this ability would involve specific game mechanics such as dedicating the unit's action to mine clearance during a turn, possibly at the cost of limiting its offensive or defensive actions temporarily.
+
+### **Strategic Implications**
+
+- **Support Role:** By clearing mines, the Sherman Flail can **facilitate strategic movement** for your forces, allowing for maneuvers that might otherwise be hindered by mined obstacles.
+  
+- **Enhanced Survivability:** Clearing minefields reduces the risk of unit losses in areas that are otherwise dangerous, contributing to the overall resilience of your army on the battlefield.
+
+In summary, the **Sherman Flail** enhances your tactical options by providing the essential function of **minefield clearance**, a capability that regular tanks lack. This makes it a valuable asset for managing battlefield hazards and ensuring smoother advancement or retreat of your units.","The special capability that a Sherman Flail tank has compared to regular tanks is the ability to clear minefields. It performs like a normal tank unit, but it has the added functionality of being able to clear minefields as described in the rules."
+27,What is the procedure for a Valentine Bridgelayer to place a temporary bridge?," The Valentine enters a stream hex and ends all movement. In the following movement phase, it expends three movement points leaving the stream hex. As the Valentine leaves, the tank bridge is placed on the stream hex, which can be used like a permanent bridge in the same movement phase.","To place a temporary bridge using a Valentine Bridgelayer in Panzer Leader, follow these steps:
+
+1. **Movement**: The Valentine Bridgelayer must move to a stream hex.
+
+2. **Bridge Placement**: Once the Valentine leaves the stream hex after entering it, the tank bridge is placed on that stream hex. 
+
+3. **Use of the Bridge**: The placed tank bridge can be used like a permanent bridge during the same movement phase.
+
+4. **Restrictions**: After the tank bridge is emplaced, it cannot be relocated.
+
+It's important to note that the Valentine Bridgelayer is an exception to the usual rule that forbids vehicular units from entering stream hexes, which allows it to carry out this action.","When a Valentine Bridgelayer uses its tank bridge, here’s what happens:
+
+• As the vehicle moves off a stream hex, it automatically leaves its tank bridge behind on that hex. In effect, the act of leaving the hex “lays” the bridge in that location.
+
+• That bridge immediately functions just like a permanent bridge during the same movement phase. In other words, other units may use it as if it were an already built, fixed crossing—even though it was just emplaced by the vehicle.
+
+• Once the tank bridge is emplaced in that stream hex it may not be moved to any other location.
+
+(Note that while engineers have separate rules regarding the placement and subsequent automatic destruction of temporary bridges they create, a Valentine Bridgelayer’s procedure is simply to deposit its tank bridge immediately as it leaves a stream hex.)","To place a **temporary bridge** using a **Valentine Bridgelayer** in *Panzer Leader*, follow these steps based on the provided rules:
+
+1. **Movement into Stream Hex:**
+   - Position the Valentine Bridgelayer to move **into the designated stream hex** where you intend to place the bridge. Notably, the Valentine Bridgelayer is **the only vehicular unit allowed** to enter stream hexes, bypassing the general restrictions for such terrain.
+
+2. **Deploying the Bridge:**
+   - As the Valentine Bridgelayer **leaves the stream hex**, it **deploys a tank bridge** onto that hex. This deployment happens **during the same movement phase** in which the Bridgelayer moves.
+
+3. **Functionality of the Bridge:**
+   - Once emplaced, the tank bridge **acts as a permanent bridge** for the duration of the **current movement phase**. This allows other units to use the bridge for crossing the stream during that phase.
+
+4. **Finalization:**
+   - After the movement phase concludes, the temporary bridge is **automatically removed** and **cannot be relocated**. This ensures that the bridge placement is only temporary and does not persist beyond the intended phase.
+
+**Key Points to Remember:**
+- **Permanent Placement for the Phase:** Although termed a temporary bridge, it functions like a permanent bridge **only for the active movement phase**.
+- **Irreversible Once Placed:** Once the bridge is deployed during the movement phase, it **cannot be moved** to another hex.
+- **Engineer Interaction:** While not directly part of the Bridgelayer's procedure, it's worth noting that **Engineer units** can **destroy temporary bridges** under specific conditions, should tactical adjustments be necessary.
+
+This procedure allows for strategic placement of bridges to facilitate unit movements across stream hexes without permanently altering the game board.
+
+**Summary:**
+A Valentine Bridgelayer moves into the desired stream hex and, as it departs, deploys a tank bridge on that hex. This bridge functions as a permanent bridge for the current movement phase and cannot be moved once placed.","To place a temporary bridge, the Valentine Bridgelayer must:
+1. Move to the stream hex where the bridge is to be placed.
+2. Lay the bridge on that stream hex.
+3. The engineer units on the bridge must remain on the bridge for only two consecutive turns.
+4. In the third turn, the engineers move to an adjacent hex and the temporary bridge is automatically destroyed."
+28,"How do fighter-bombers execute attacks, and what are the limitations on their weapons usage?"," Fighter-bomber attacks are executed by moving the unit adjacent to the target hex, undergoing AA attacks if any, then resolving combat. Each FB unit can conduct bomb or rocket attacks only once per game and fire machine guns only four times per game. A fighter-bomber can't use multiple weapons in the same attack (e.g., machine guns and bombs).","Fighter-bombers (FBs) execute attacks by moving to a hex adjacent to the target hex and then undergoing anti-aircraft (AA) attack, if applicable. After resolving any AA fire, the FB unit performs the combat as a direct fire attack. 
+
+Regarding limitations on their weapons usage, each FB unit has the following restrictions:
+
+1. They may conduct bomb or rocket attacks only once per game.
+2. They can fire their machine guns up to four times per game.
+
+Players are required to maintain a record to track the use of FBs throughout the game.","Fighter-bombers execute their attacks by moving to a hex adjacent to the target hex, after which they may be subject to AA (anti-air) fire before resolving their combat. All of their attacks are carried out as direct fire attacks during the air phase of the player segment.
+
+Regarding weapon limitations, each fighter-bomber is equipped with three types of direct fire weapon systems—machine guns, air-to-ground rockets, and bombs. However, there are restrictions on how often these weapons can be used within a game:
+• Bombs and rockets may each be used only once per game.
+• Machine guns may be fired up to a total of four times per game.
+Additionally, a side record must be maintained to keep track of how often each fighter-bomber uses its weapons.","In **Panzer Leader**, fighter-bombers (FBs) play a crucial role in executing direct fire attacks against targets. Here's a detailed breakdown of how FBs execute their attacks and the limitations associated with their weapon systems:
+
+### **Executing Fighter-Bomber Attacks**
+
+1. **Phase of Execution:**
+   - **Air Phase:** FB attacks are carried out during the **air phase** of the player segment, ensuring they are resolved before ground combat phases.
+
+2. **Attack Process:**
+   - **Movement:** To initiate an attack, the FB unit must **move to a hex adjacent** to the target hex. This positioning is essential for effective engagement.
+   - **Anti-Air (AA) Defense:** Once adjacent, the FB unit is subject to any **AA (Anti-Air) attacks** from the defender. This represents the target's attempt to defend against aerial assaults.
+   - **Combat Resolution:** After addressing AA defenses, the attack proceeds to resolve combat based on the type of weapon employed by the FB.
+
+3. **Direct Fire Attacks:**
+   - All FB attacks are classified as **direct fire attacks**, meaning they directly engage the target without relying on indirect methods or artillery support.
+
+### **Weapon Usage Limitations**
+
+FBs are equipped with three types of direct fire weapons, each with specific usage restrictions to balance gameplay:
+
+1. **Machine Guns:**
+   - **Usage Limit:** Each FB unit can **fire its machine guns up to four times per game**.
+   - **Tracking:** Players must maintain a **side record** to monitor and verify the number of times machine guns have been used, ensuring adherence to the limit.
+
+2. **Air-to-Ground Rockets and Bombs:**
+   - **Usage Limit:** Each FB unit is restricted to **one bomb or rocket attack per game**.
+   - **Tracking:** Similar to machine guns, a **side record** must be kept to track the single use of rockets or bombs by each FB unit.
+
+These limitations ensure that players manage their FB resources strategically throughout the game, deciding the optimal moments to deploy each weapon type for maximum effectiveness.
+
+### **Summary**
+
+- **Attack Execution:**
+  - **Move** FB to a hex adjacent to the target during the **air phase**.
+  - **Undergo AA attack** if applicable.
+  - **Resolve combat** using direct fire based on the chosen weapon.
+
+- **Weapon Limitations:**
+  - **Machine Guns:** Up to **four uses per game** per FB unit.
+  - **Rockets/Bombs:** **One use per game** per FB unit.
+  - **Record-Keeping:** Maintain a **side record** to track FB weapon usage.
+
+By adhering to these procedures and limitations, players can effectively utilize fighter-bombers to influence the battlefield while maintaining strategic depth in their gameplay.","Fighter-bombers execute attacks by moving to a hex adjacent to the target hex, undergoing AA attack if necessary, and then resolving combat. They have three different types of direct fire weapons systems: machine guns, air-to-ground rockets, and bombs. Each FB unit may conduct bomb or rocket attacks only once per game, and it may fire its machine guns only four times per game. Players must maintain a side record to verify the employment of FB units."
+29,What is the sequence for demolishing a bridge using engineer units?," To destroy a bridge, an engineer unit must remain on the bridge hex for three turns. On the fourth turn, it moves to an adjacent hex and rolls a die: 1-5 means success (bridge destroyed), 6 means failure. If it fails, the engineer can try again with fewer turns on the bridge: 1 turn (success on 1-2), 2 turns (success on 1-4), or 3 turns (success on 1-5).","To demolish a bridge using engineer units in Panzer Leader, follow this sequence:
+
+1. **Initiate Stationary Time:** The engineer unit must move to the bridge hex and then remain there for **three consecutive friendly movement phases** without moving out of the hex. This means the unit must start and end these three phases in the bridge hex.
+
+2. **Move Away:** After the third turn of staying on the bridge, the engineer unit must move to an adjacent hex on the **fourth turn**.
+
+3. **Die Roll for Demolition:** At this point, roll a die:
+   - If the result is **1-5**, the bridge is successfully destroyed, and a BLOCK counter is placed on that hex. The hex is then treated as an ordinary stream hex for the remainder of the game.
+   - If the result is **6**, the demolition attempt fails. The engineer unit must immediately return to the bridge hex if further attempts are desired.
+
+4. **Retrying Demolition:** If the attempt fails, the sequence must restart:
+   - The engineer unit must again stay for three consecutive turns on the bridge hex to attempt demolition again. 
+   - It cannot be dispersed during the stationary turns; otherwise, the sequence is interrupted until the unit becomes able to execute the procedure again.
+
+Following these steps will guide you through the bridge demolition process using engineer units in the game.","There are two demolition procedures depending on whether the bridge is permanent or temporary:
+
+1. Permanent Bridges:
+ a. The engineer unit must begin on the bridge hex and then remain there for three consecutive friendly movement phases (i.e. three turns) without leaving.
+ b. On the fourth turn, the engineer must move out to an adjacent hex. As soon as it leaves, a die is rolled.
+  • A roll of 1–5 means the demolition is successful. A BLOCK counter is then placed in that hex and the hex becomes a standard stream hex.
+  • A roll of 6 means the attempt has failed. In that case, if another demolition attempt is desired, the engineer must move back onto the bridge hex and restart the entire process.
+
+2. Temporary Bridges:
+ a. Engineer units perform demolition in nearly the same way but need to remain on the temporary bridge hex for only TWO consecutive turns.
+ b. On the third turn the engineer moves to an adjacent hex, and the temporary bridge is automatically destroyed (with no die roll and no BLOCK counter placed).
+
+Note: In both cases the engineer unit must not be dispersed during the required stationary turns; if dispersion occurs, the demolition sequence is interrupted until the unit is reassembled.
+
+This is the complete sequence for demolishing a bridge using engineer units in Panzer Leader.","To demolish a bridge using engineer units in **Panzer Leader**, the sequence varies depending on whether the bridge is **permanent** or **temporary**. Below are the detailed steps for each type:
+
+---
+
+### **1. Demolishing a Permanent Bridge**
+
+**Step 1: Position the Engineer**
+- **Place an engineer unit** on the hex containing the permanent bridge you intend to demolish.
+
+**Step 2: Maintain Control for Three Turns**
+- **Keep the engineer on the bridge hex** for **three consecutive turns**. During each of these turns:
+  - The engineer **must not move** out of the bridge hex.
+  - Ensure the engineer **remains dispersed** (i.e., not broken up by enemy actions) throughout these turns.
+
+**Step 3: Attempt Demolition on the Fourth Turn**
+- **On the fourth turn**, perform the following actions:
+  - **Move the engineer** to an **adjacent hex**.
+  - **Roll a die** to determine the success of the demolition attempt:
+    - **Roll 1-5:** 
+      - **Success!** The bridge is destroyed.
+      - **Place a BLOCK counter** on the bridge hex.
+      - The hex is now treated as an **ordinary stream hex** for the remainder of the game.
+    - **Roll 6:** 
+      - **Failure.** The bridge remains intact.
+      - **Return the engineer** to the bridge hex if you wish to attempt demolition again.
+      - **Restart the sequence** from **Step 2** (three more consecutive turns on the bridge).
+
+**Important Notes:**
+- If the demolition attempt **fails**, you must **start the sequence over**; partial progress does not carry over.
+- The engineer **cannot be dispersed** during the three stationary turns. If dispersed, the demolition sequence is **interrupted** and must be restarted once the engineer is redeployed.
+
+---
+
+### **2. Demolishing a Temporary Bridge**
+
+**Step 1: Position the Engineer**
+- **Place an engineer unit** on the hex containing the temporary bridge you intend to demolish.
+
+**Step 2: Maintain Control for Two Turns**
+- **Keep the engineer on the bridge hex** for **two consecutive turns**. During each of these turns:
+  - The engineer **must not move** out of the bridge hex.
+  - Ensure the engineer **remains dispersed** throughout these turns.
+
+**Step 3: Automatically Destroy the Bridge on the Third Turn**
+- **On the third turn**, perform the following actions:
+  - **Move the engineer** to an **adjacent hex**.
+  - The **temporary bridge is automatically destroyed** upon the engineer's movement.
+  - **No BLOCK counter** is placed on the hex.
+  - The hex is now treated as an **ordinary stream hex** for the remainder of the game.
+
+**Important Notes:**
+- Unlike permanent bridges, **no die roll is required** for destroying temporary bridges.
+- The demolition process is **simpler and faster**, taking only three turns in total.
+
+---
+
+By following these sequences, you can effectively use engineer units to demolish both permanent and temporary bridges in **Panzer Leader**. Remember to protect your engineers from being dispersed during the critical turns to ensure a successful demolition.","The sequence for demolishing a bridge using engineer units is as follows:
+1. An engineer unit must remain on the bridge hex for three consecutive turns without moving out.
+2. On the fourth or any subsequent turn, the engineer unit must move to an adjacent hex.
+3. The player then rolls a die for the bridge demolition. A roll of 1-5 means the bridge is successfully destroyed and a BLOCK counter is placed on that hex, treating it as an ordinary stream hex for the rest of the game. A roll of 6 means the attempt has failed.
+4. If the attempt fails, the engineer unit must move back into the bridge hex for another demolition attempt, restarting the sequence."
+30,What happens during an amphibious landing when a unit moves from a sea hex to a beach hex already occupied by a friendly unit?," If a unit moves from a sea hex to a beach hex already occupied by a friendly unit, all units in that hex are dispersed. No additional penalties accrue against units previously dispersed.","During an amphibious landing, if a unit moves from a sea hex to a beach hex that is already occupied by a friendly unit, all units in that beach hex are dispersed. However, it's important to note that no additional penalties accrue against units that were previously dispersed.","During an amphibious landing, if a unit moves from a sea hex into a beach hex that's already occupied by a friendly unit, all the units in that beach hex are dispersed. This means that any friendly units, including the one that was already there, are spread out to relieve stacking problems. No extra penalties apply to units that are already dispersed during this process.","During an amphibious landing in **Panzer Leader**, when a unit moves from a sea hex to a beach hex that is already occupied by a friendly unit, the following occurs:
+
+1. **Dispersal of Units:** All units present in the occupied beach hex are **dispersed**. This means that they must move to adjacent hexes according to the game's dispersal rules.
+
+2. **No Additional Penalties:** After the dispersal, **no further penalties** are applied to the units that have been dispersed as a result of this movement.
+
+This mechanic ensures that beach hexes do not become overly stacked with units, maintaining balanced gameplay and strategic movement during amphibious operations.","When a unit moves from a sea hex to a beach hex already occupied by a friendly unit during an amphibious landing in Panzer Leader, all units in that hex are dispersed. No additional penalties accrue against units previously dispersed."
+31,"What are the different methods for destroying a temporary bridge, and what happens to units on the bridge when it's destroyed?"," Temporary bridges can be destroyed by engineers (requiring only 2 turns on the bridge) or by artillery using direct or indirect fire. When a temporary bridge is destroyed by fire, any vehicular units and their passengers in that hex are destroyed, while non-vehicular units are unaffected. No wreck counters are placed in this situation.","Temporary bridges can be destroyed using the following methods:
+
+1. **Engineers**: Engineer units can destroy temporary bridges by remaining on the bridge for two consecutive turns. On the third turn, they must move to an adjacent hex, at which point the temporary bridge is automatically destroyed. No block counter is placed in the hex after the destruction.
+
+2. **Artillery**: Combat units can destroy temporary bridges using direct or indirect fire. However, ""I""-type weapons (indirect fire weapons) cannot be used for this purpose.
+
+When a temporary bridge is destroyed, any vehicular units (and their passengers) that are in the hex where the bridge was located are destroyed. Non-vehicular units are unaffected by the destruction of the bridge. It's important to note that wreck counters are not placed in this situation.","Temporary bridges can be destroyed in two main ways:
+
+1. Artillery fire: Combat units using direct or indirect fire (though not “I”-type weapons) can destroy temporary bridges.
+
+2. Engineer action: Engineers can destroy temporary bridges by staying on the bridge for two consecutive turns. On the third turn, when the engineers move to an adjacent hex, the temporary bridge is automatically destroyed.
+
+When a temporary bridge is destroyed by direct or indirect fire, any vehicular units (and their passengers) in that hex are destroyed, while non-vehicular units remain unaffected. Also, no wreck counters are placed when this destruction occurs.","In **Panzer Leader**, temporary bridges play a crucial role in maneuvering vehicular units across obstacles. Destroying these bridges can disrupt enemy movements and strategies. There are two primary methods for destroying a temporary bridge, each involving different units and mechanics. Additionally, the consequences of bridge destruction affect units differently based on their type.
+
+### **Methods for Destroying a Temporary Bridge**
+
+1. **Using Artillery Units:**
+   - **Direct or Indirect Fire:** Artillery units equipped with suitable weaponry can destroy temporary bridges by deploying either direct or indirect fire. However, it's important to note that **“I”-type weapons cannot be used** for this purpose.
+   - **Effectiveness:** This method allows for flexibility in targeting bridges from a distance, making it a strategic option for weakening enemy lines without engaging in close combat.
+
+2. **Employing Engineer Units:**
+   - **Engineer Deployment:** Engineer units can destroy temporary bridges through their specialized capabilities.
+   - **Duration on Bridge:** Engineers must remain on the bridge for **two consecutive turns**. During these two turns, they actively work to compromise the bridge's integrity.
+   - **Automatic Destruction:** On the **third turn**, the engineers move to an adjacent hex, and the temporary bridge is **automatically destroyed** without the need for additional actions.
+   - **No Block Counters:** When engineers destroy a bridge, **no block counters are placed** in the hex, ensuring that the destruction is clean and doesn't leave residual obstacles.
+
+### **Effects of Bridge Destruction on Units**
+
+When a temporary bridge is destroyed—whether by artillery fire, indirect fire, or engineer intervention—the impact on units occupying the bridge is as follows:
+
+- **Vehicular Units and Passengers:**
+  - **Immediate Destruction:** Any vehicular units (such as tanks, trucks, or other motorized vehicles) **and their passengers** present in the hex where the bridge is destroyed are **immediately destroyed**.
+  - **No Wreck Counters:** In these situations, **no wreck counters** are placed, meaning the destruction is total without leaving behind remnants that could affect future gameplay.
+
+- **Non-Vehicular Units:**
+  - **Unaffected:** Units that are **non-vehicular**, such as infantry or artillery units positioned on the bridge at the time of destruction, **remain unaffected**. They survive the bridge's destruction and can continue to operate normally.
+
+This mechanic emphasizes the strategic importance of temporary bridges in the game, as controlling their destruction can significantly influence the movement and effectiveness of enemy vehicular forces while sparing infantry and other non-vehicular units.","The different methods for destroying a temporary bridge are as follows:
+1. Engineer units may destroy temporary bridges by remaining on the bridge for only two consecutive turns. On the third turn, the engineers move to an adjacent hex and the temporary bridge is automatically destroyed.
+2. Combat units, such as artillery, may destroy temporary bridges by using direct or indirect fire. However, ""I""-type weapons may not be used to destroy bridges.
+
+When a temporary bridge is destroyed by direct or indirect fire, any vehicular units (and their passengers) in that hex are also destroyed. Non-vehicular units are unaffected. No wreck counters are placed in the hex in this situation."
+32,"How do blocks affect movement, and can vehicles use road movement rates when entering a hex with a block?"," A unit may only enter a hex with a block if it begins its movement phase directly adjacent to that hex. Upon entering, the unit must stop and move no further that turn. In its next movement phase, it may move off the block at the normal rate. A block on a road negates the road movement rate, and vehicular units may not cross adjacent green hex sides when moving into a block-road hex.","Blocks negate the road movement rate in hexes where they are located. This means that units may not enter hexes containing block counters using the road movement rate, regardless of how many units are in the hex. Additionally, vehicular units are not allowed to cross adjacent green hex sides when moving into a hex with a block counter. Therefore, vehicles cannot use road movement rates when entering a hex that has a block.","Blocks have a specific effect on movement: when a block counter is on a road, it completely negates the advantage provided by the road movement rate. That means if a vehicular unit is trying to move into a hex that contains a block (or similarly, an enemy fortification or minefield counter), it cannot take advantage of the enhanced road movement. In other words, vehicles must use their standard movement rates rather than the road movement rate when entering a hex with a block.","In **Panzer Leader**, blocks significantly impact movement, especially concerning the use of road movement rates by vehicular units. Here's a breakdown of how blocks affect movement:
+
+1. **Negation of Road Movement Rates:**
+   - **Blocks negate the road in the affected hex.** This means that any hex containing a block counter **cannot** be traversed using the typical road movement rates that would otherwise allow units to move more efficiently along roads.
+
+2. **Restrictions on Vehicular Units:**
+   - **Vehicular units are specifically impacted by blocks on roads.** When a hex has a block (referred to as a ""block-road hex""), vehicular units **cannot** cross adjacent green hex sides to move into that hex using road movement rates. Essentially, the presence of a block prevents vehicles from taking advantage of the road's movement benefits in that particular hex.
+
+3. **General Movement Limitations:**
+   - **Regardless of the number of units present**, any unit (not just vehicular) **cannot** enter a hex containing a block at the road movement rate. This applies even if the hex has multiple units already stationed there.
+   - Additionally, if a hex is blocked **and** has enemy fortifications or minefield counters, vehicular units face further movement restrictions, preventing them from using road movement rates to enter such hexes.
+
+**Summary:**
+Blocks serve as significant obstacles on roads by negating the enhanced movement rates typically associated with road hexes. Consequently, **vehicular units cannot utilize road movement rates to enter a hex that contains a block**. Instead, they must either find an alternative path that doesn't rely on road movement or adjust their movement strategy accordingly to navigate around the blockage.","Blocks negate road movement in that hex, meaning vehicular units may not use road movement rates to cross adjacent green hex sides when moving into a block road hex. Units may not enter hexes containing blocks at the road movement rate, regardless of the number of units in the hex. Additionally, vehicular units may not enter a road hex containing an enemy fortification, a block, or a minefield counter."
+33,What are the requirements for controlling a bridge hex according to the victory conditions?," A side controls a bridge hex if at least one friendly unit occupies, or is the last to enter or pass through, that bridge hex AND at least one hex on each side of the stream that is also ADJACENT to that bridge hex.","To control a bridge hex according to the victory conditions in Panzer Leader, a unit must be on the bridge hex itself, not on any adjacent half-hexes. Additionally, if the victory condition specifies the control of a specific bridge hex, friendly units must be fully positioned on that hex and not overlapping into adjacent sections. Half-hexes are not counted for the purpose of control or victory conditions.","A bridge hex is treated as one of the “geographic victory objectives” (just like a town hex) and must be held by a force that is entirely within the proper board section. In other words, if the victory condition calls for one side to “control” a bridge hex, a unit must be physically present on that hex in its “inner” half—that is, on the portion that belongs entirely to that board section—and not merely on a half-hex extending from an adjacent board. (Remember that for both setup and victory condition purposes, units occupying only a half-hex do not count as being on the designated board section.) 
+
+Note that the special “bridge demolition” procedure (where an engineer must spend three turns on the hex and then move off, with a die roll determining success) is a separate matter that deals with actually destroying the bridge; the victory condition simply requires that the objective hex (whether it is intact or in the process of being demolished) be controlled by occupying it fully on the proper portion of the board.
+
+In summary, to “control” a bridge hex for victory:
+ • A unit must be present in that hex entirely on its designated board section (inner half); merely being on a half-hex that is partly on an adjacent board does not count.
+ • The rules for setup and victory objectives must be met—so any unit that only occupies a half-hex (extending into an adjacent board) does not satisfy the condition to control that bridge hex.","According to the victory conditions in **Panzer Leader**, controlling a **bridge hex** requires the following:
+
+1. **Full Occupation of the Bridge Hex**:
+   - **Entire Hex Coverage**: To control a bridge hex, a player must have units occupying the **entire bridge hex** within their designated board section. Simply having units on half-hexes that extend into adjacent board sections does **not** fulfill the control requirement.
+   
+2. **Exclusion of Half-Hexes**:
+   - **No Half-Hex Control**: For both setup and victory conditions, **half-hexes are not considered playable**. This means that units cannot establish control over a bridge hex by occupying only a portion (half-hex) of it. Control must be established on the **full hex** that belongs entirely to the relevant board section.
+
+3. **Unit Presence**:
+   - **Required Unit Types**: Typically, controlling a bridge hex may involve having specific unit types (e.g., engineers) present to establish or maintain control, especially if actions like bridge demolition are involved. However, for victory conditions specifically, the primary requirement is the presence of units on the full bridge hex within the correct board section.
+
+4. **Persistence of Control**:
+   - **Continuous Occupation**: To maintain control over a bridge hex for victory conditions, a player must ensure that their units remain on the bridge hex without being displaced or forced to retreat, except as allowed by game mechanics (such as bridge demolition attempts).
+
+**Summary**:  
+To control a bridge hex for victory conditions in **Panzer Leader**, a player must have their units occupying the **entire bridge hex** within the specific board section required. Partial occupation using half-hexes is insufficient, and control is only recognized when the bridge hex is fully held within the player's designated area.","According to the rules, in order to control a bridge hex according to the victory conditions, an engineer unit must remain on the bridge hex for three turns. It must begin and end three friendly movement phases in a row without moving out of the hex. On the fourth or any subsequent turn, the engineer unit must move to an adjacent hex. If the engineer unit successfully performs these actions, a die roll is then made for bridge demolition. A roll of 1-5 means the bridge is successfully destroyed, and a BLOCK counter is placed on that hex. If a 6 is rolled, the demolition attempt fails and the engineer unit must move back into the bridge hex to make another attempt."
+34,"How does Opportunity Fire work, and what fraction of movement must a unit expend in an enemy's line of sight to be targeted?"," Any enemy unit that expends ¼ (rounded DOWN) or more of its movement allowance continuously in LOS of a friendly unit may be attacked by that unit using direct fire. The unit is attacked as it enters the hex that constitutes ¼ of its movement in LOS, and its movement is halted until the attack is resolved.","Opportunity Fire allows a friendly unit to fire upon an enemy unit as it moves through the line of sight (LOS) of that friendly unit. Specifically, when the enemy unit enters a hex that is in the friendly unit's LOS, the attacking unit can announce an Opportunity Fire attack immediately. At this point, the enemy unit has expended ¼ of its movement allowance, which is the fraction required to be targeted for Opportunity Fire.
+
+If the attack is resolved and results in the enemy unit being dispersed, that unit is inverted and its movement is halted. If the Opportunity Fire attack is ineffective, the enemy unit may continue with its remaining movement allowance. Units that use Opportunity Fire are marked with ""Opportunity Fire"" counters, indicating that they cannot fire or move in the next friendly player segment, with these counters being removed at the end of the next player segment.","Opportunity Fire (OF) occurs when an enemy unit is moving through your line of sight (LOS). As soon as the enemy unit moves into a hex where it has expended ¼ of its movement allowance while in your LOS (or any subsequent hex that is also in your LOS), you may declare an OF attack. At that moment, the enemy unit’s movement is halted and the OF attack is immediately resolved. If the enemy is dispersed by the attack, it is ""inverted"" (turned over) and all further movement ends; if the attack isn’t effective, the enemy may resume its normal movement.
+
+Additionally, if an enemy unit is moving into a hex where there are other units (including town hexes), the OF attack must ignore those other units—the attack is solely directed at the moving unit.
+
+Finally, once a unit fires during the enemy movement phase via an OF attack, it is marked with an “Opportunity Fire” counter. This counter prevents it from firing or moving in the next friendly player segment, and the counter is removed at the end of that segment.","**Opportunity Fire** in *Panzer Leader* allows a friendly unit to attack an enemy unit when the latter moves into its Line of Sight (LOS). Here's how it works based on the provided rules:
+
+1. **Triggering Opportunity Fire:**
+   - **Movement Through LOS:** When an enemy unit moves into a hex that is within the LOS of a friendly unit, the friendly unit can execute an Opportunity Fire attack **as the enemy unit enters that hex**.
+   - **Movement Fraction:** This triggering event occurs **after the enemy unit has expended ¼ (one quarter) of its total movement allowance** in the friendly unit's LOS. Essentially, entering the LOS consumes ¼ of the enemy unit's movement for the purpose of Opportunity Fire.
+
+2. **Executing the Attack:**
+   - **Announcement:** The non-moving player (controlling the friendly unit) announces an Opportunity Fire attack when the enemy unit enters the LOS.
+   - **Halting Movement:** The enemy unit's movement is immediately halted at this point.
+   - **Resolving the Attack:**
+     - If the attack **is effective** (e.g., it disperses the enemy unit), the enemy unit is **inverted** (typically meaning it's turned around or rendered unable to act) and its movement ends for that turn.
+     - If the attack **is not effective**, the enemy unit may **resume its normal movement** after the attack resolution.
+
+3. **Restrictions:**
+   - **Entering Occupied Hexes:** If the enemy unit is moving into a hex that already contains other units (including town hexes), Opportunity Fire **cannot** be directed at those other units. In such cases, only the moving unit is subject to Opportunity Fire.
+   
+4. **Aftermath of Firing:**
+   - Units that execute Opportunity Fire attacks receive an “Opportunity Fire” counter. This counter **prevents them from firing or moving in the next friendly player segment**. The counter is removed at the end of that segment, allowing the unit to act normally in subsequent turns.
+
+**Summary:**  
+Opportunity Fire is triggered when an enemy unit has moved **¼ of its total movement** into a friendly unit's Line of Sight. This allows the friendly unit to halt the enemy's movement and execute an immediate attack, potentially affecting the enemy unit's ability to continue moving for that turn.","Opportunity Fire in Panzer Leader allows a unit to fire upon an enemy unit as it enters a hex that constitutes ¼ of its movement allowance expended in the friendly unit's line of sight. This means that when an enemy unit moves through the line of sight of a friendly unit and enters a hex in the line of sight, the friendly unit can declare an opportunity fire attack. The enemy unit's movement is halted, and the attack is immediately resolved. If the attacking unit is dispersed, it is inverted and ends all movement. If the attack is not effective, the unit may resume its normal movement."
+35,"What are the restrictions for Quick-Time infantry movement, and what happens at the end of such movement?"," Infantry using Quick-Time speed can move 2 hexes but cannot enter slope, woods, stream, or town hexes (moving out is permitted). They cannot combine Quick-Time with road movement rate. If fired upon, they defend at half strength. At the end of movement, they must roll a die - on 4, 5, or 6, they are dispersed until the end of the current player segment.","The restrictions for Quick-Time infantry movement in Panzer Leader specify that any infantry-type unit (excluding machine-gun or mortar units) may increase its speed to two hexes in one movement phase. However, this movement must occur with the understanding that the unit must adhere to the game's movement rules. 
+
+At the end of such Quick-Time movement, if the unit has made any legal movement, it may not have fired during that movement phase since any unit that has fired may not move (as stated in the rules about Fired and Dispersed Units). Additionally, movement may be affected by opportunity fire if an enemy unit is within line of sight (LOS) as the Quick-Time movement occurs; in that case, the enemy unit may be attacked as it enters the hex, which could halt its movement if the attack causes it to become dispersed. If the Quick-Time movement does not result in any attacks or effects that prevent further movement, the unit can continue its actions normally.","There are essentially two parts to the answer.
+
+1. Quick‐Time Movement Restrictions for Infantry:
+ • Only infantry units that are not machinegun or mortar teams may “push” their speed to move two hexes in a single movement phase. This bonus – sometimes called “Quick‐Time” speed – can be used only for one movement phase.
+ • In addition, even when using Quick-Time, these infantry must still obey all the normal movement rules. For example, if an enemy unit’s line‐of‐sight crosses into the infantry’s path, the opportunity‐fire rules still apply. (And note that if an infantry unit has already fired in a combat phase, then by the “Fired and Dispersed Units” rule it cannot move at all.)
+
+2. What Happens at the End of Quick-Time Movement:
+ • As with normal movement, if the infantry unit, while on its accelerated two–hex movement, moves into an enemy unit’s line‐of–sight it may be subject to an immediate opportunity fire attack. When that occurs, the moving unit’s progress is halted immediately.
+ • If that opportunity fire causes the infantry unit to be “dispersed” (the result as indicated on the Combat Results Table), then the unit is turned over (inverted) and its movement ends instantly, no matter how many hexes of its two–hex allowance remain.
+ • However, if the attack does not have an effect (i.e. the unit is not dispersed), then it resumes its remaining movement. At the end of its movement phase it simply ends up in the hex where its movement allowance has been completely expended.
+
+In short, Quick-Time infantry (only non-MG, non–mortar types) can move twice as fast for one movement phase but must still stop for any enemy opportunity fire encountered. Moreover, if that fire disperses them, they are inverted and do not continue moving beyond that point.","In **Panzer Leader**, the **Quick-Time** movement allows certain infantry units to increase their mobility for strategic advantage. Here's a detailed breakdown of the restrictions and the consequences at the end of such movement:
+
+### **Restrictions for Quick-Time Infantry Movement:**
+
+1. **Eligible Units:**
+   - **Only infantry-type units** that **do not** possess **machine guns (MGs)** or **mortars** can utilize Quick-Time movement. This means standard infantry without these specific weaponry are eligible.
+
+2. **Movement Allowance:**
+   - These eligible infantry units can **increase their movement speed to two hexes** for **one movement phase**. Normally, infantry units move one hex per movement phase, so this effectively doubles their mobility for that action.
+
+3. **Limitations:**
+   - **Single Use per Movement Phase:** The Quick-Time speed increase is limited to **one movement phase**. A unit cannot use Quick-Time multiple times within the same movement phase.
+   - **No Additional Actions:** While using Quick-Time movement, the unit **cannot perform other actions** such as engaging in combat or providing support. The focus is solely on increased mobility.
+   - **Vulnerability to Attacks:** Moving quickly may expose the unit to greater risks of being targeted by enemy units, especially if moving through or into areas with enemy lines of sight (LOS).
+
+### **Consequences at the End of Quick-Time Movement:**
+
+1. **Reversion to Normal Speed:**
+   - After completing the two-hex movement using Quick-Time, the unit's movement speed reverts to its standard rate (typically one hex per movement phase) for subsequent movement phases.
+
+2. **Exhaustion of Movement Phase:**
+   - Once the Quick-Time movement is executed, the unit’s movement for that phase is **fully expended**. It cannot move again until the next movement phase.
+
+3. **Potential for Being Fired Upon:**
+   - Due to the increased movement and potential exposure, the unit may become a target for enemy opportunity fire during or immediately after the Quick-Time movement, especially if it ends its movement within the LOS of enemy units.
+
+4. **No Additional Mobility:**
+   - The unit **cannot combine** Quick-Time movement with other movement enhancements or split its movement across different phases using this ability.
+
+### **Strategic Considerations:**
+
+- **Positioning:** Use Quick-Time movement to quickly reposition infantry units to critical areas of the battlefield, such as reinforcing weak points or exploiting enemy vulnerabilities.
+  
+- **Risk vs. Reward:** Weigh the benefits of increased mobility against the heightened risk of encountering enemy fire. Ensure that the new position is defensible or offers strategic advantages.
+
+- **Coordination with Other Units:** Coordinate Quick-Time movements with other units to maximize battlefield effectiveness, such as combining fast-moving infantry with armored units for coordinated assaults.
+
+By adhering to these restrictions and understanding the implications of Quick-Time movement, players can effectively leverage their infantry units' mobility to gain a tactical edge in **Panzer Leader**.
+
+**Summary:**  
+Only non-machine-gun and non-mortar infantry can use Quick-Time movement to move two hexes during a single movement phase. This increased speed is limited to one movement phase per use, and after completing the Quick-Time movement, the unit cannot move again in that phase and returns to its normal movement speed for subsequent actions.","The restrictions for Quick-Time infantry movement are that any infantry-type unit (non-MG or mortar) may increase its speed to two hexes for one movement phase. At the end of such movement, if the unit has fired in a combat phase, it may not move further in that movement phase. If the unit is dispersed during Quick-Time movement, it is inverted and ends all movement."
+36,What is the process for using naval support fire and how must it be planned?, Naval support fire can be used as direct fire against visible targets from any sea hex or as indirect fire with a ground unit sighting. Naval indirect fire attacks must be written down TWO turns in advance. All naval fire is (H) class and must be used in groups of 20 attack strength points minimum. It has unlimited range.,"In Panzer Leader, the process for using naval support fire involves the following steps:
+
+1. **Determine the Type of Fire**: Naval fire can be utilized in two ways:
+   - **Direct Fire (DF)**: This can be directed at targets in the open that are visible from any sea hex.
+   - **Indirect Fire (IF)**: This requires a ground unit to spot the target, and the attack must be planned in advance.
+
+2. **Planning for Indirect Fire**: If you are using indirect naval fire, you must write down your intended attack TWO turns in advance. This means that you need to plan ahead and signal your intention to use indirect fire before it can be executed.
+
+3. **Combining Fire**: During the combat phase, direct naval fire can be combined with ground-based fire into a single attack strength. Similarly, indirect naval fire can also be combined with indirect ground fire.
+
+In summary, players must plan for indirect naval fire two turns ahead and can combine different types of fire during combat to maximize their effectiveness.","Naval support fire is provided as a certain number of naval attack strength points that you can use during a turn, and you have two methods for deploying this fire:
+
+1. Direct Naval Fire – Use it immediately against targets in the open that can be seen directly from any sea hex. This fire is applied in the same combat phase and, if desired, it can be combined with ground-based direct fire.
+
+2. Indirect Naval Fire – This mode requires a ground unit to initially sight (or spot) an enemy target. Because of the nature of indirect fire, you must plan ahead: the naval indirect attack must be written down two turns in advance. When the attack is executed two turns later, you can combine the ensuing naval fire with any indirect ground fire.
+
+In summary, if you want to use naval support fire, decide whether you are using it for direct fire (immediate use against visible targets) or indirect fire (planning ahead with a two-turn delay after a unit spots the enemy). This planning is essential, especially for indirect fire, to ensure the attack is executed correctly in a future turn.","In **Panzer Leader**, utilizing naval support fire effectively can provide a strategic advantage to the Allied player. Here's a step-by-step process outlining how to use naval support fire and the necessary planning involved:
+
+### 1. **Determine the Type of Naval Fire to Use**
+Naval support fire can be employed in two distinct ways:
+- **Direct Fire (DF):** 
+  - **Usage:** Targeting enemy units that are **visible** and in the **open** from any sea hex.
+  - **Requirements:** Clear line of sight to the target without obstructions.
+  
+- **Indirect Fire (IF):** 
+  - **Usage:** Targeting enemy units where direct line of sight is not available.
+  - **Requirements:** Must be conducted with the assistance of a **ground unit** that can provide **sighting or spotting** of the target.
+
+### 2. **Planning Indirect Naval Fire**
+If you opt for **indirect fire**, meticulous planning is essential:
+- **Advance Planning:** Indirect naval fire attacks must be **written down two turns in advance**. This means you need to decide on your targets and record your intentions during your planning phase, anticipating their execution after two turns.
+- **Coordination with Ground Units:** Ensure that a ground unit is designated to provide the necessary sighting or spotting to facilitate the indirect fire.
+
+### 3. **Executing Naval Support Fire**
+During the **combat phase**, naval support fire can be executed as follows:
+- **Direct Naval Fire:**
+  - Can be used **immediately** within the current turn.
+  - **Combining Firepower:** Direct naval fire can be **combined with direct ground-based fire** to form a single, more potent attack strength against the target.
+  
+- **Indirect Naval Fire:**
+  - Executed based on the **pre-planned actions** recorded two turns prior.
+  - **Combining Firepower:** Indirect naval fire can be **combined with indirect ground fire**, enhancing the overall effectiveness of the attack.
+
+### 4. **Integrating with Ground-Based Fire**
+Regardless of the type of naval fire chosen:
+- **Combined Attacks:** You have the option to **merge naval and ground-based fire** to increase your attack strength. This synergy can be pivotal in overwhelming enemy defenses.
+  
+- **Strategic Advantage:** Combining different types of fire allows for flexibility and adaptability on the battlefield, enabling you to respond effectively to dynamic combat situations.
+
+### Summary
+- **Choose** between **direct** or **indirect** naval fire based on visibility and tactical needs.
+- **Plan** indirect naval attacks **two turns in advance**, ensuring coordination with ground units for spotting.
+- **Execute** naval support fire during the combat phase, **combining** it with ground-based fire as appropriate to maximize attack effectiveness.
+
+By following this structured approach, you can effectively leverage naval support fire to enhance your strategic position in **Panzer Leader**.","The process for using naval support fire in Panzer Leader is outlined in the rules as follows:
+
+1. Naval fire may be used in two ways: as direct fire against targets in the open that can be seen directly from any sea hex, or as indirect fire with a ground unit sighting (or spotting). Naval indirect fire attacks must be written down TWO turns in advance.
+2. During the combat phase, direct naval fire and ground fire may be combined into one attack strength. Indirect naval fire may also be combined with indirect ground fire.
+
+Overall, naval support fire can be used either directly or indirectly, and must be planned in advance when used as indirect fire."
+37,How do dispersed units affect the spotting of enemy units for indirect fire?," Units that are dispersed cannot spot for any type of fire. Regarding spotting for enemy units that have fired, the spotting unit cannot have been dispersed since the target unit fired.","Dispersed units cannot spot enemy units for indirect fire if they were dispersed at the time the fire is directed. Specifically, a spotting unit must be undispersed when it directs fire. If a unit has been dispersed since the target unit fired, it is not eligible to spot that target. Additionally, if all spotting units that can see a particular target hex become destroyed, dispersed, or move away before the indirect fire is executed, the fire has the potential to become scattered. In this case, a die is rolled to determine the effect of the scattered fire on the target hex or adjacent hexes.","For indirect fire to be directed, a friendly spotting unit must be intact—that is, it must be undispersed when it “directs” the fire. If a unit becomes dispersed (or has been dispersed since the enemy fired), it loses its ability to serve as a spotter. This means that if your spotting unit is dispersed, it cannot effectively designate enemy units for indirect fire. 
+
+Furthermore, if all spotting (or sighting) units on a target hex are rendered unable to spot (whether because they’re destroyed, dispersed, or have moved away), then the indirect fire might “scatter.” Scattered fire can end up landing on an adjacent hex and affecting units there at full strength, regardless of whether they are friendly or enemy. 
+
+In summary, dispersed units cannot be used to direct indirect fire. Their dispersion not only prevents them from spotting enemy targets properly but also increases the risk that the indirect fire will scatter rather than hit its intended target.","In **Panzer Leader**, dispersed units have a specific impact on the ability to spot enemy units for indirect fire. Here's how dispersed units affect spotting:
+
+1. **Spotting Requirements**:
+   - **Undispersed Units Only**: To effectively spot enemy units for indirect fire, your friendly units must be **undispersed** at the moment they direct the fire. Dispersed units cannot perform this role.
+   
+2. **Effect of Dispersal on Spotting**:
+   - If a friendly unit that was spotting an enemy target becomes **dispersed after** the enemy unit fires, it **loses** its ability to continue spotting. This means it **cannot** direct indirect fire based on that spotting.
+   
+3. **Consequences of No Available Spotters**:
+   - When all units that were spotting a particular target are either **destroyed**, **dispersed**, or **moved away** between the designation and execution of indirect fire, the fire may become **scattered**. 
+   - **Scattered Fire**: This occurs based on a die roll. If the fire scatters, it might hit adjacent hexes instead of the intended target, potentially affecting both enemy and friendly units in those hexes.
+
+4. **Marking Dispersed Units on Sea Hexes**:
+   - Dispersed allied units on sea hexes are marked with a temporary “Spotted” marker to indicate their status. However, these dispersed units are **not inverted** until they move to beach hexes, where the “Spotted” marker is removed, and the units remain inverted.
+
+**Summary**:
+Dispersed friendly units **cannot** spot enemy units for indirect fire. Only **undispersed** units are eligible to direct such fire. If all potential spotters become dispersed before the indirect fire is executed, the fire may scatter, reducing its effectiveness and potentially causing unintended damage.","Dispersed friendly units may not spot for indirect fire. Spotting units must be undispersed at the time they direct fire at enemy units. If all units spotting a particular target hex are dispersed between the time the indirect fire is designated and executed, the fire may become scattered."
+38,What is a Panzerblitz Assault and how is it executed?," In a Panzerblitz Assault, German infantry units on armored vehicles may ""jump off"" in the hex immediately in front of a unit about to be overrun by those armored vehicles. The infantry may then close assault the units which were just overrun by the vehicles during the CAT phase.","The provided excerpts from the rules of Panzer Leader do not specifically define a ""Panzerblitz Assault."" Instead, they focus on Close Assault Tactics (CAT) and the process of conducting attacks in the game.
+
+However, based on the context of both Panzer Leader and its sister game, Panzerblitz, a Panzerblitz Assault can generally be interpreted as an aggressive maneuver involving armored units (like tanks) attempting to engage enemy forces directly.
+
+In Panzer Leader, the concept of a close assault might relate to how players can execute attacks during the close assault phase of their player segment. Specifically, units may choose to use CAT, which allows infantry and engineer units to perform close assaults rather than a normal attack.
+
+To summarize, while there isn't a specific description of a ""Panzerblitz Assault"" in the provided text, the execution of attacks (likely including an assault) would follow the standard procedures defined in the game's rules for initiating and resolving combat encounters, particularly recognizing the phases of play and the types of units involved. For precise execution details, further rules, not included in the excerpts, would be necessary.","A Panzerblitz Assault is simply the option available to infantry and engineer units to engage an enemy using close combat techniques rather than a standard (ranged or direct) attack. In Panzer Leader (and by extension in its sister-game system, Panzerblitz), units that choose to “assault” – that is, to use close assault tactics (CAT) – do so during the designated close assault phase of a player’s segment.
+
+In practical terms, when you execute a Panzerblitz Assault you declare that a given eligible unit (infantry or engineer) is carrying out a close assault instead of its normal attack. The specific mechanics (such as movement into close range and the unique resolution of close combat) are handled according to the CAT rules. These rules simulate the real-life intensity and “all-or-nothing” nature of close-quarters fighting on the battlefield. 
+
+So, to sum up:
+• A Panzerblitz Assault is a close assault attack.
+• It is executed during the close assault phase of the player segment.
+• Eligible infantry and engineer units choose to use these tactics in place of their normal attack, following the specific CAT rules provided in the game.
+
+This option allows the game to reflect the different challenges and advantages of close, hand-to-hand combat in a realistic tactical simulation.","In **Panzerblitz**, an **Assault** typically refers to a **Close Assault**, which is a specialized form of engagement designed to simulate intense, close-quarters combat between units. While the exact terminology and mechanics can vary between **Panzerblitz** and its sister game **Panzer Leader**, the concept remains fundamentally similar.
+
+Based on the **Panzer Leader** rules provided, the equivalent of a **Panzerblitz Assault** is likely the **Close Assault Tactics (CAT)**. Here's how it is executed:
+
+### **Close Assault Tactics (CAT) in Panzer Leader**
+
+1. **Opting for Close Assault:**
+   - **Eligible Units:** All German and Allied infantry and engineer units have the option to use Close Assault Tactics instead of making a normal attack.
+   
+2. **Execution Phase:**
+   - **Close Assault Phase:** Close Assault attacks are carried out during the **close assault phase** of a player's segment. This phase is specifically designated for resolving intense close-quarters engagements.
+   
+3. **Mechanics of the Assault:**
+   - **Movement and Engagement:** Unlike normal attacks, close assaults may involve additional movement rules, representing the aggressive push towards enemy positions.
+   - **Combat Resolution:** The outcome of a close assault typically depends on factors such as unit strength, terrain, and possibly dice rolls or other randomization mechanics to simulate the chaos of close combat.
+   
+4. **Special Conditions:**
+   - **AA (Anti-Aircraft) Attacks:** For German players executing AA attacks during a close assault, blank counters are placed on firing units. These counters indicate that the units may **not** fire, move, or load in the German player’s next segment, representing the temporary limitation due to intensive close combat operations.
+
+### **Key Points to Remember**
+
+- **Strategic Choice:** Opting for a close assault is a tactical decision that can lead to more decisive engagements but may also carry higher risks, such as increased unit losses or reduced flexibility in subsequent turns.
+  
+- **Resource Management:** Managing units that have engaged in close assaults is crucial, especially considering the limitations placed on them after executing special attacks like AA.
+
+### **Applying This to Panzerblitz**
+
+While **Panzerblitz** and **Panzer Leader** share similar systems, it's essential to refer to the specific **Panzerblitz** rulebook for precise mechanics related to Assaults. However, understanding the **Close Assault Tactics** in **Panzer Leader** provides a solid foundation for anticipating how Assaults function in **Panzerblitz**.
+
+If you're transitioning between the two games or incorporating elements from one into the other, focusing on the tactical depth and strategic implications of close engagements will enhance your gameplay experience.","A Panzerblitz Assault is a type of close assault tactic that can be used by German and Allied infantry and engineer units instead of making a normal attack. It is executed in the close assault phase of a player segment. During a Panzerblitz Assault, German players execute AA attacks, and blank counters are placed on firing units to signify that they may not fire, move, or load in the German's next player segment."
+39,"How do smoke shell concentrations (SSCs) affect line of sight, and how long do they last?"," SSCs obstruct LOS/LOF through the target hex at all elevations. They last for two consecutive turns after which they dissipate. The LOS/LOF is obstructed if the line traced between hexes intersects any part of the SSC target hex. Units can fire into or out of SSC hexes, but such hexes must be spotted to be fired upon.","In Panzer Leader, smoke shell concentrations (SSCs) affect line of sight (LOS) and line of fire (LOF) by obstructing them at all elevations through the target hex. This means that any unit trying to see through a hex containing an SSC will have its sight obstructed, much like dense smoke would, preventing visibility through that hex.
+
+It's important to note that while SSCs block LOS/LOF through the target hex, they do not block firing into or out of hexes containing SSCs, provided those hexes are spotted. This effectively means that units can still engage targets from within or outside the SSC hex, but they need to have visibility or spotting of the hexes involved.
+
+As for the duration of the SSCs, the rules do not provide explicit information about how long they last. Therefore, you may want to refer to additional rules or scenarios for specifics on the duration of SSC effects in your game.","SSCs act like a tall, opaque barrier in the hex they occupy. They block any line‐of‐sight or line‐of‐fire through that hex at all elevations—imagine a thick column of smoke that extends vertically through the whole hex. (This blockage applies even for air-to–ground targeting.) However, when shooting into or out of a hex that contains an SSC, the hex itself must be spotted, but the SSC doesn’t block the shot—much like a tall building in a town hex.
+
+As for duration, the rule excerpts provided do not specify exactly how long an SSC lasts. In other parts of the game’s rules (not shown here), SSCs typically persist only for the combat phase (or a similarly limited period) after they’re deployed. In short, while an SSC immediately blocks LOS/LOF as described above, its presence is temporary and governed by the overall turn or phase rules rather than being a permanent obstacle.","In **Panzer Leader**, Smoke Shell Concentrations (SSCs) have specific effects on line of sight (LOS) and line of fire (LOF), as well as implications for gameplay duration:
+
+### **Effect on Line of Sight and Line of Fire**
+
+1. **Obstruction at All Elevations**:
+   - **Complete Blockage**: SSCs **completely obstruct LOS and LOF** through the target hex at **all elevations**. This means that no units, whether ground or air, can see or fire through a hex containing an SSC.
+   - **Air-to-Ground Sightings**: Even air units aiming to engage ground targets are hindered by SSCs, as the smoke blocks their line of sight.
+
+2. **Firing Into or Out Of SSC Hexes**:
+   - **Allowed with Restrictions**: While LOS/LOF is generally blocked by SSCs, units **can still fire into or out of** hexes containing SSCs. However, to do so, the **SSC hex must be actively spotted** by the firing unit.
+   - **Comparable to ""Unusually Tall"" Town Hexes**: For LOS/LOF purposes, SSC hexes behave similarly to town hexes that are unusually tall, allowing certain interactions despite the obstruction.
+
+3. **Restrictions on Firing Smoke**:
+   - **During Attacks**: SSCs **cannot be deployed** into a hex that is **under direct or indirect fire attack** within the same combat phase. This ensures that smoke deployment doesn't interfere with ongoing attacks but can still be utilized in subsequent turns.
+
+### **Duration of Smoke Shell Concentrations**
+
+The provided rule excerpts do **not specify** the duration for which SSCs remain active on the board. To determine how long SSCs last in **Panzer Leader**, you would need to consult the complete game rules or additional resources. Typically, in board games of this nature, such effects last for a defined number of turns or until certain conditions are met, but without the specific rules, the exact duration remains unspecified based on the given information.",Smoke shell concentrations (SSCs) obstruct line of sight/line of fire through the target hex at all elevations. They function like a solid column of dense smoke extending vertically from the target hex to a high altitude. SSCs last until the end of the phase in which they were fired.

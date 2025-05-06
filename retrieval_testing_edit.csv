@@ -1,0 +1,41 @@
+Question,Expected Nodes,Retrieved Nodes,Success?,NOTES
+" What is the time scale in PANZER LEADER, and what does each turn represent?",III,"['IV', 'I', 'III']",YES,III SUFFICIENT
+ What is the map scale in PANZER LEADER?,II.B,"['I', 'IV', 'II.B']",YES,II.B SUFFICIENT
+" How many mapboard sections does PANZER LEADER include, and how are they identified?",II.B,"['IV', 'I', 'XIV.C']",NO,XIV.C TITLED “MAPBOARD LOCATION SYSTEM”
+ What are the four phases in each player segment of PANZER LEADER?,IV,"['IV', 'I', 'XV.D']",NO,EXPECTED NODE SHOULD BE IV.A; THIS IS A SITUATION WHERE KNOWLEDGE GRAPH CAN BE EXPLOITED
+ During which phase can a player execute minefield attacks?,IV.A.1,"['IX.A.3', 'IX.A.7', 'IV.A.1']",YES,IV.A.1 SUFFICIENT
+ Can a unit both fire and move in the same player segment?,V.B.3,"['VII.B.6', 'VII.B.5', 'V.B.3']",YES,
+ What is the cost in movement points for units traveling along roads?,V.D.1,"['V.D.1', 'V.B.1', 'V.D']",YES,
+ Under what condition can a vehicular unit NOT enter a road hex at the road movement rate?,V.D.3-4,"['V.D.5', 'V.D.6', 'IX.B.6']",PARTIAL,SEE NOTES
+ What happens if a non-vehicular unit fails its die roll when attempting to enter a stream hex?,VII.K.2,"['VII.K.2', 'V.D.5', 'IX.B.2']",YES,
+ What is the maximum number of units that can be stacked in one hex?,VI.A,"['VI.A', 'V.B.6', 'IX.C.11']",YES,
+ How are passenger and carrier units counted for stacking purposes?,VI.B,"['V.C.5', 'VI.B', 'XI.B.3']",YES,
+ Do minefield counters count towards stacking limits?,VI.C,"['VI.C', 'IX.C.11', 'IX.A.1.a']",YES,
+" What is the only way infantry (""I"") units can attack armored vehicle units?",VII.E.7,"['VII.E.7', 'XV.D', 'V.C.6']",YES,
+" When making a direct fire attack against units in a mixed stack, how do you determine which defense type to use?",VII.F.2.b,"['VII.F.2.b', 'VII.D.5', 'XII.C.3.b']",YES,
+ What are the two modifications applied to overrun attacks?,VII.D.4,"['VII.D.2', 'VII.D.3', 'VII.E.5']",NO,QUESTION WORDING NOT OPTIMAL
+ How is the Line-of-Sight (LOS) determined in PANZER LEADER?,VII.I,"['VII.I', 'IV', 'I']",YES,
+ Under what conditions can a unit always fire at a target regardless of obstacles or terrain?,VII.J.8,"['VII.J.8', 'VII.G.3', 'VII.L.2']",YES,
+" When are units in woods or town hexes considered ""spotted"" and can be fired upon by non-adjacent units?",VII.L.1,"['VII.L.1', 'XV.B.11', 'XII.B.2']",PARTIAL,"NEEDS VII.L.1, VII.L.1.a, VII.L.1.b TO ANSWER COMPLETELY"
+ What is unique about how indirect fire attacks are designated compared to direct fire?,VII.C.3,"['VII.C.6', 'VII.C.4', 'VII.C.10']",PARTIAL,GETS CLOSE TO THE CORRECT NODE BUT NOT QUITE
+" What happens when all units spotting for indirect fire are destroyed, dispersed, or move away between designation and execution of fire?",VII.C.8,"['VII.L.2', 'VII.L.1.b', 'VII.C.8']",YES,
+"How do mines affect unit movement, and what happens to dispersed units on minefields?","['IX.A.2', 'IX.A.3', 'IX.A.4']","['X.A.1', 'X.A.5', 'IX.A.3']",PARTIAL,PARTIAL BUT NOT COMPLETE
+What is the process for an engineer unit to clear a minefield?,['IX.A.1-4'],"['X.C.1', 'X.A.7', 'X.A.3']",PARTIAL,PARTIAL BUT NOT COMPLETE
+"How do ""Spotted"" markers work, and under what conditions can enemy units be spotted?",VII.B,"['VII.L.1.b', 'VII.L.1', 'XI.D.2']",YES,EXPECTED NODE WRONG
+"What is the maximum number of wrecks allowed in a single hex, and what happens if additional armored units are destroyed in that hex?",VIII.D,"['VIII.D', 'VIII', 'VI.E']",YES,
+"How do fortifications affect the defense strength of units inside them, and what happens if a fortification is destroyed?","['IX.C.3', 'IX.C.5']","['IX.C.5', 'IX.C.10.c', 'IX.C.4']",PARTIAL,PARTIAL BUT NOT COMPLETE
+What's the difference between units placed ON TOP of a fortification versus units placed INSIDE a fortification?,['IX.C.10'],"['IX.C.10.c', 'IX.C.10', 'IX.C.11']",PARTIAL,"PARTIAL BUT NOT COMPLETE; NOTE THAT ONLY TOP 3 RESULTS RETRIEVED, BUT 4 NODES REQUIRED TO ANSWER QUESTION COMPLETELY"
+What special capabilities does a Sherman Flail tank have compared to regular tanks?,['X.C.1'],"['XVI.A', 'X.C', 'X.C.1']",YES,
+What is the procedure for a Valentine Bridgelayer to place a temporary bridge?,['X.C.3'],"['X.C.3.c', 'X.C.3', 'X.C.4.a']",PARTIAL,PARTIAL BUT NOT COMPLETE
+"How do fighter-bombers execute attacks, and what are the limitations on their weapons usage?","['XII.C.2, XII.C.3']","['XII.C.2', 'XII.C.1', 'XII.C.3.e']",PARTIAL,PARTIAL; MORE NODES THAN 3
+What is the sequence for demolishing a bridge using engineer units?,['X.B.1'],"['X.C.4.a', 'X.B.1', 'X.B.1.c']",YES,NODE INCOMPLETE DUE TO BAD PARSING
+What happens during an amphibious landing when a unit moves from a sea hex to a beach hex already occupied by a friendly unit?,['XI.C.5'],"['XI.C.5', 'XI.C.2', 'XI.D.5']",YES,
+"What are the different methods for destroying a temporary bridge, and what happens to units on the bridge when it's destroyed?",['X.C.4-8'],"['X.C.8', 'X.C.4.a', 'X.C.4.b']",YES,MATCHED EXACTLY
+"How do blocks affect movement, and can vehicles use road movement rates when entering a hex with a block?",['IX.B.2-6'],"['IX.B.6', 'V.D.6', 'V.D.5']",YES,
+What are the requirements for controlling a bridge hex according to the victory conditions?,['XIV.B.7.b'],"['XIV.B.7', 'XIV.B.2', 'X.B.1']",NO,
+"How does Opportunity Fire work, and what fraction of movement must a unit expend in an enemy's line of sight to be targeted?",['XV.B.1-4'],"['XV.B.4', 'XV.B.11', 'XV.B.3']",PARTIAL,PARTIAL: IS THE TYPE OF QUESTION THAT REQUIRES SUMMARIZATION
+"What are the restrictions for Quick-Time infantry movement, and what happens at the end of such movement?",['XV.A.1-4'],"['V.B.3', 'XV.B.4', 'XV.A']",PARTIAL,PARTIAL
+What is the process for using naval support fire and how must it be planned?,['XV.C.1-4'],"['XV.C', 'XV.C.1', 'XV.C.2']",PARTIAL,PARTIAL: REQUIRES SUMMARIZATION
+How do dispersed units affect the spotting of enemy units for indirect fire?,['VII.B.2'],"['VII.L.2', 'XI.D.2', 'VII.C.8']",YES,EXPECTED SHOULD BE VII.L.2
+What is a Panzerblitz Assault and how is it executed?,XV.D,"['I', 'VII.E', 'XII.D.2.b']",NO,
+"How do smoke shell concentrations (SSCs) affect line of sight, and how long do they last?","['XVI.C.2, XVI.C.3']","['XVI.C.3.a', 'XVI.C.1.f', 'XVI.C.3.c']",NO,
