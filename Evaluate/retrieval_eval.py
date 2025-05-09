@@ -1,4 +1,4 @@
-from langchain.vectorstores.chroma import Chroma
+from langchain_chroma import Chroma
 from retrieve import *
 import pandas as pd
 from utils import *

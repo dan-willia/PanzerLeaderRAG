@@ -1,6 +1,7 @@
-from langchain_community.embeddings import HuggingFaceBgeEmbeddings
-from langchain.vectorstores.chroma import Chroma
+import os
+os.environ['TOKENIZERS_PARALLELISM'] = 'false'
 
+from langchain_huggingface import HuggingFaceEmbeddings
 
 global CHROMA_PATH_2
 CHROMA_PATH_2 = "../ChromaDB_2/"
@@ -28,5 +29,5 @@ def construct_context(retrieved_docs):
     return context
 
 def get_embedding_function():
-    embeddings = HuggingFaceBgeEmbeddings(model_name="BAAI/bge-large-en-v1.5")
+    embeddings = HuggingFaceEmbeddings(model_name="BAAI/bge-large-en-v1.5")
     return embeddings

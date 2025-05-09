@@ -1,10 +1,8 @@
-from langchain.chat_models import init_chat_model
-from langchain_core.prompts import PromptTemplate
 from Generate.query import *
 from DataProcessing.utils import *
 from DataProcessing.rule_hierarchy2 import *
+from langchain_chroma import Chroma
 import pandas as pd
-import os
 import json
 import random
 

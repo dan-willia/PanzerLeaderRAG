@@ -1,5 +1,4 @@
 from langchain_core.prompts import PromptTemplate
-from langchain.chat_models import init_chat_model
 from Generate.retrieve import *
 import os
 

@@ -1,12 +1,10 @@
 from langchain.chat_models import init_chat_model
-from langchain_core.prompts import PromptTemplate
+from langchain_chroma import Chroma
 from Generate.query import *
 from DataProcessing.utils import *
 from DataProcessing.rule_hierarchy2 import *
-import pandas as pd
 import os
 import json
-
 """
 Command line interface for RAG system.
 """

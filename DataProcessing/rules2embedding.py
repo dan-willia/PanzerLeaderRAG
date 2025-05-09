@@ -1,9 +1,11 @@
-from langchain_community.embeddings import HuggingFaceBgeEmbeddings
-from langchain.vectorstores.chroma import Chroma
+import os
+os.environ["TOKENIZERS_PARALLELISM"] =  "false"
+
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_chroma import Chroma
 from langchain.schema import Document
 import re
 import json
-import os
 import shutil
 
 """
@@ -76,7 +78,7 @@ def calculate_chunk_ids(chunks):
     return chunks
 
 def get_embedding_function():
-    embeddings = HuggingFaceBgeEmbeddings(model_name="BAAI/bge-large-en-v1.5")
+    embeddings = HuggingFaceEmbeddings(model_name="BAAI/bge-large-en-v1.5")
     return embeddings
 
 def add_to_chroma(chunks):
