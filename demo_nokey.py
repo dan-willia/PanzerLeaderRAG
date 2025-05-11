@@ -1,6 +1,6 @@
 from Generate.query import *
 from DataProcessing.utils import *
-from DataProcessing.rule_hierarchy2 import *
+from DataProcessing.rule_hierarchy2 import create_rule_tree
 from langchain_chroma import Chroma
 import pandas as pd
 import json

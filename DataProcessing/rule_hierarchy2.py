@@ -1,6 +1,6 @@
 import json
-from DataProcessing.Node import Node
 import re
+from .node import Node
 
 def create_rule_tree(rules_json):
     """
