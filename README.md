@@ -13,6 +13,7 @@ The architecture of the application is shown below, and is explained in more det
   - API calls via LangChain to OpenAI models for generation
 - Creation of evaluation framework based on related work research
 - Performance evaluation of four different LLMs
+- Full report detailing background research, architecture, and evaluation
 
 **Created as final project for Natural Language Processing at CU Boulder in Spring 2025**
 
