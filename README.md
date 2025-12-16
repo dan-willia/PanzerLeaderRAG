@@ -1,28 +1,48 @@
-demo.py contains a command line interface demo of the system. It will ask for an OpenAI API key.
+# PanzerLeaderRAG
 
-To run a "fake" demo without needing to input a key, run demo_nokey.py instead.
+Implements a QA system enhanced by retrieval augmented generation (RAG) for the rulebook of the Avalon Hill game [Panzer Leader](https://en.wikipedia.org/wiki/Panzer_Leader_(game)).
 
-Dependencies:
+The architecture of the application is shown below, and is explained in more detail in the [project report](/FinalProjectReport.pdf).
 
-langchain==0.3.25 
+![project architecture](/architecture.png)
 
-langchain_community==0.3.23
+## Project features
+- Full RAG pipeline from preprocessing to answer generation
+  - Creation of vector embedding database of game rules 
+  - Cosine similarity calculation between query and rules for retrieval
+  - API calls via LangChain to OpenAI models for generation
+- Creation of evaluation framework based on related work research
+- Performance evaluation of four different LLMs
 
-langchain_core==0.3.58
+**Created as final project for Natural Language Processing at CU Boulder in Spring 2025**
 
-pandas==2.2.3
+## Files and folders
 
-pypdf==5.4.0
+`/DataProcessing/` contains scripts and data for parsing the PDF of the rulebook, vectorizing the rules, and storing them in a ChromaDB.
 
-Files and folders:
+`/ChromaDB_2/` is a database of the vectorized embeddings so that the demo doesn't need to re-vectorize the entire rulebook.
 
-DataProcessing contains scripts and data for parsing the PDF of the rulebook, vectorizing the rules, and storing them in a ChromaDB.
-It also contains the Node class which is used to represent the structure of the rules. 
+`/Generate/` contains code for generating responses to 40 test questions from four OpenAI LLMs. 
 
-ChromaDB_2 is a database of the vectorized embeddings of the rules so that the demo doesn't need to re-vectorize the entire rulebook.
+`/Evaluate/` contains code and data related to evaluating the retrieved rules and generated responses.
 
-Generate contains code for generating responses to 40 test questions from four OpenAI LLMs. 
+`FinalProjectReport.pdf` contains the project writeup including research on related work.
 
-Evaluate contains code and data related to evaluating the retrieved rules and generated responses.
+## Dependencies
 
-demo.py and demo_nokey.py are demos of the system. 
+- `langchain==0.3.25 `
+
+- `langchain_community==0.3.23`
+
+- `langchain_core==0.3.58`
+
+- `pandas==2.2.3`
+
+- `pypdf==5.4.0`
+
+## Demo
+
+`demo.py` contains a command line interface of the system. It will ask for an OpenAI API key.
+
+`demo_nokey.py` can be used to access a demo without an OpenAI API key. Random queries from the evaluation set are chosen, and saved answers from the evaluation study are retrieved. 
+
